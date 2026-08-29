@@ -83,19 +83,6 @@ Você pode executar o projeto diretamente no Google Colab utilizando o notebook 
 3. Execute as células em sequência para testar o scraping BS4, Scrapy com `crochet` e a raspagem múltipla dos 5 termos.
 4. Para abrir a interface web Streamlit no Colab, execute a célula com `localtunnel` conforme demonstrado no notebook.
 
----
-
-## 🎬 Roteiro Sugerido para o Vídeo Demonstrativo (Máximo 2 Minutos)
-
-| Tempo | Etapa | O que mostrar e falar |
-| :--- | :--- | :--- |
-| **0:00 - 0:25** | **Introdução e Requisito 1 (BS4)** | Mostre o Streamlit rodando. Vá na **Aba 1**, digite *"Ciência de dados"*, clique em *Raspar com BS4*. Destaque o tempo de execução registrado (ex: 0.35s) e a Nuvem de Palavras gerada. |
-| **0:25 - 0:50** | **Requisito 2 (Scrapy + Crochet)** | Vá na **Aba 2**. Explique brevemente que o Scrapy usa Twisted assíncrono e que usamos o `crochet` para desacoplar o runner. Clique em *Raspar com Scrapy*, mostre o tempo medido e o gráfico comparativo de latência BS4 vs Scrapy. |
-| **0:50 - 1:35** | **Requisito 3 (5 Termos + NLP + Busca)** | Vá na **Aba 3**. Mostre os 5 termos preenchidos (*UFRN, Ciência de Dados, Aprendizado de Máquina, Eng. Software, Armazém de Dados*). Clique em *Raspar 5 Páginas e Unificar*. Mostre as estatísticas do corpus e a redução com NLTK stopwords. Digite a palavra *"dados"* e mostre o total exato de ocorrências e os trechos de contexto. |
-| **1:35 - 2:00** | **Encerramento e Colab** | Mostre rapidamente a **Aba 4** (benchmark) e a **Aba 5** com o link do Colab e repositório GitHub. Finalize a gravação. |
-
----
-
 ## 📊 Comparativo Técnico: Requests+BS4 vs Scrapy+Crochet
 
 | Critério | Requests + BeautifulSoup4 | Scrapy + Crochet |
