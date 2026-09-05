@@ -1,0 +1,447 @@
+# ====================================================================
+# NOTICIAS UFRN - PALAVRA-CHAVE: EAJ
+# Coletado em: 04/09/2026 22:12:58
+# Total de registros: 440
+# Formato: ANO | URL | TITULO
+# ====================================================================
+
+2026	https://www.ufrn.br/imprensa/noticias/104669/eaj-realiza-seminario-internacional-de-integracao-com-a-unl-da-argentina	EAJ realiza seminário internacional de integração com a UNL da Argentina
+2026	https://www.ufrn.br/imprensa/noticias/104577/eaj-amplia-dialogo-com-guarda-municipal-sobre-seguranca	EAJ amplia diálogo com Guarda Municipal sobre segurança
+2026	https://www.ufrn.br/imprensa/noticias/104549/eaj-promove-troca-de-experiencias-entre-pos-graduandos-e-unl	EAJ promove troca de experiências entre pós-graduandos e UNL
+2026	https://www.ufrn.br/imprensa/noticias/104464/semana-da-engenharia-florestal-fortalece-formacao-e-integracao-academica	Semana da Engenharia Florestal fortalece formação e integração acadêmica
+2026	https://www.ufrn.br/imprensa/noticias/104343/autoavaliacao-fortalece-cursos-de-graduacao-na-eaj	Autoavaliação fortalece cursos de graduação na EAJ
+2026	https://www.ufrn.br/imprensa/noticias/104291/eaj-recebe-dia-d-da-qualidade-de-vida-com-acoes-voltadas-a-saude	EAJ recebe Dia D da Qualidade de Vida com ações voltadas à saúde
+2026	https://www.ufrn.br/imprensa/noticias/104254/eaj-inaugura-novo-espaco-para-pos-graduacao	EAJ inaugura novo espaço para pós-graduação
+2026	https://www.ufrn.br/imprensa/noticias/104188/eaj-fortalece-extensao-e-formacao-de-alunos-na-primeira-expo-macaiba	EAJ fortalece extensão e formação de alunos na primeira Expo Macaíba
+2026	https://www.ufrn.br/imprensa/noticias/104054/eaj-realiza-palestra-na-inauguracao-do-novo-anfiteatro-baoba	EAJ realiza palestra na inauguração do novo Anfiteatro Baobá
+2026	https://www.ufrn.br/imprensa/noticias/104005/eaj-fortalece-cultura-de-inovacao-e-empreendedorismo-em-alunos	EAJ fortalece cultura de inovação e empreendedorismo em alunos
+2026	https://www.ufrn.br/imprensa/noticias/103729/eaj-recebe-pro-reitoria-de-pesquisa-para-dialogar-com-tecnicos-sobre-coordenacao-de-projetos	EAJ recebe Pró-Reitoria de Pesquisa para dialogar com técnicos sobre coordenação de projetos
+2026	https://www.ufrn.br/imprensa/noticias/103540/extensao-aproxima-universidade-da-sociedade-e-fortalece-desenvolvimento-regional-por-meio-de-acoes-de-extensao-desenvolvidas-pela-eaj	Extensão aproxima Universidade da sociedade e fortalece desenvolvimento regional por meio de ações de extensão desenvolvidas pela EAJ
+2026	https://www.ufrn.br/imprensa/noticias/103089/eaj-apresenta-ensino-pesquisa-e-inovacao-a-comunidade-de-macaiba	EAJ apresenta ensino, pesquisa e inovação à comunidade de Macaíba
+2026	https://www.ufrn.br/imprensa/noticias/103012/consepe-aprova-criacao-de-bacharelado-em-engenharia-agronomica	Consepe aprova criação de bacharelado em Engenharia Agronômica
+2026	https://www.ufrn.br/imprensa/noticias/102272/cultivando-plantas-pessoas-e-saude-oficina-reune-servidores-da-ufrn-no-horto-medicinal-da-praca-do-servidor	Cultivando plantas, pessoas e saúde: oficina reúne servidores da UFRN no Horto Medicinal da Praça do Servidor
+2026	https://www.ufrn.br/imprensa/noticias/101995/artigo-de-docentes-da-eaj-e-publicado-em-uma-das-mais-importantes-revistas-cientificas-de-integracao-computacao-ciencias-agrarias	Artigo de docentes da EAJ é publicado em uma das mais importantes revistas científicas de integração de tecnologias às ciências agrárias
+2026	https://www.ufrn.br/imprensa/noticias/101903/ufrn-realiza-11a-edicao-da-expedicao-caatinga-em-serra-negra-do-norte	UFRN realiza 11ª edição da Expedição Caatinga em Serra Negra do Norte
+2026	https://www.ufrn.br/imprensa/noticias/101879/propesq-realiza-visitas-aos-campi-do-interior-para-fortalecer-pesquisa-cientifica-na-ufrn	Propesq realiza visitas aos campi do interior para fortalecer pesquisa científica na UFRN
+2026	https://www.ufrn.br/imprensa/noticias/101735/eaj-ufrn-promove-xii-semagraria-com-foco-em-inovacao-e-agricultura-familiar	EAJ/UFRN promove XII Semagraria com foco em inovação e agricultura familiar
+2026	https://www.ufrn.br/imprensa/noticias/101597/eaj-fortalece-cooperacao-internacional-com-universidades-e-centros-de-pesquisa-da-argentina	EAJ fortalece cooperação internacional com universidades e centros de pesquisa da Argentina
+2026	https://www.ufrn.br/imprensa/noticias/101563/gastronomia-da-eaj-marca-presenca-no-festival-sabores-de-pipa	Gastronomia da EAJ marca presença no festival Sabores de Pipa
+2026	https://www.ufrn.br/imprensa/noticias/101487/extensao-promove-capacitacao-aos-produtores-de-bovinos-leiteiros-do-rn	Extensão promove capacitação aos produtores de bovinos leiteiros do RN
+2026	https://www.ufrn.br/imprensa/noticias/101017/eaj-oferta-curso-de-iniciacao-a-gastronomia	EAJ oferta curso de Iniciação à Gastronomia
+2026	https://www.ufrn.br/imprensa/noticias/100846/ufrn-marca-presenca-na-3a-edicao-da-cozinha-show	UFRN marca presença na 3ª edição da Cozinha Show
+2026	https://www.ufrn.br/imprensa/noticias/100117/eaj-realiza-processo-seletivo-de-mestrado-em-ciencias-florestais-5	EAJ realiza processo seletivo de mestrado em Ciências Florestais
+2026	https://www.ufrn.br/imprensa/noticias/99779/proex-participa-de-reuniao-de-avaliacao-de-acoes-de-extensao-na-eaj	Proex participa de Reunião de Avaliação de Ações de Extensão na EAJ
+2026	https://www.ufrn.br/imprensa/noticias/99531/eaj-inscreve-produtores-agricolas-para-feira-de-agricultura-familiar	EAJ inscreve produtores agrícolas para Feira de Agricultura Familiar
+2026	https://www.ufrn.br/imprensa/noticias/99482/projeto-da-ufrn-fortalece-protagonismo-de-mulheres-indigenas-em-macaiba	Projeto da UFRN fortalece protagonismo de mulheres indígenas em Macaíba
+2026	https://www.ufrn.br/imprensa/noticias/99280/eaj-participa-de-feira-nacional-de-maquinas-e-tecnologias-da-agricultura-familiar	EAJ participa de Feira Nacional de Máquinas e Tecnologias da Agricultura Familiar
+2026	https://www.ufrn.br/imprensa/noticias/98904/projeto-guardioes-mirins-das-abelhas-realiza-formacao-ambiental-em-parceria-com-bombeiro-mirim	Projeto Guardiões Mirins das Abelhas realiza formação ambiental em parceria com Bombeiro Mirim
+2026	https://www.ufrn.br/imprensa/noticias/98255/eaj-ufrn-lanca-edital-do-pronatec-energife-2026-para-curso-em-energia-solar	EAJ/UFRN lança edital do Pronatec EnergIFE 2026 para curso em energia solar
+2026	https://www.ufrn.br/imprensa/noticias/98202/eaj-abre-inscricoes-para-aluno-especial-no-mestrado-em-ciencias-florestais	EAJ abre inscrições para aluno especial no mestrado em Ciências Florestais
+2026	https://www.ufrn.br/imprensa/noticias/98097/eaj-promove-leilao-de-ovinos-e-caprinos	EAJ promove leilão de ovinos e caprinos
+2025	https://www.ufrn.br/imprensa/noticias/97763/comissao-de-inclusao-e-acessibilidade-da-eaj-avalia-2025-e-planeja-novas-acoes	Comissão de Inclusão e Acessibilidade da EAJ avalia 2025 e planeja novas ações
+2025	https://www.ufrn.br/imprensa/noticias/97726/ufrn-e-codevasf-discutem-parcerias	UFRN e Codevasf discutem parcerias
+2025	https://www.ufrn.br/imprensa/noticias/97443/docente-da-eaj-assume-segundo-mandato-no-conape	Docente da EAJ assume segundo mandato no Conape
+2025	https://www.ufrn.br/imprensa/noticias/96327/escola-agricola-de-jundiai-abre-selecao-com-165-vagas-para-cursos-tecnicos-subsequentes	Escola Agrícola de Jundiaí abre seleção com 165 vagas para cursos técnicos subsequentes
+2025	https://www.ufrn.br/imprensa/noticias/96277/proposta-sobre-bioinsumos-sustentaveis-vai-integrar-documentos-da-cop30	Proposta sobre bioinsumos sustentáveis avança de fase em seleção para COP30
+2025	https://www.ufrn.br/imprensa/noticias/96144/sia-realiza-encontro-com-familiares-e-estudantes-na-eaj	SIA realiza encontro com familiares e estudantes na EAJ
+2025	https://www.ufrn.br/imprensa/noticias/96062/eaj-participa-1o-festival-de-gastronomia-de-macaiba	EAJ participa 1º Festival de Gastronomia de Macaíba
+2025	https://www.ufrn.br/imprensa/noticias/95397/mostra-de-profissoes-2025-incluiu-cursos-tecnicos-da-ufrn	Mostra de Profissões 2025 incluiu cursos técnicos da UFRN
+2025	https://www.ufrn.br/imprensa/noticias/94358/eaj-realiza-processo-seletivo-de-mestrado-em-ciencias-florestais-4	EAJ realiza processo seletivo de mestrado em Ciências Florestais
+2025	https://www.ufrn.br/imprensa/noticias/92379/convenio-com-universidade-de-maringa-oferece-doutorado-em-zootecnia-para-servidores-da-ufrn	Convênio com Universidade de Maringá oferece doutorado em Zootecnia para servidores da UFRN
+2025	https://www.ufrn.br/imprensa/noticias/90254/ufrn-promove-3a-semana-da-zootecnia-em-macaiba	UFRN promove 3ª Semana da Zootecnia em Macaíba
+2025	https://www.ufrn.br/imprensa/noticias/89152/ppgcfl-abre-credenciamento-e-recredenciamento-de-docentes	PPGCFL abre credenciamento e recredenciamento de docentes
+2025	https://www.ufrn.br/imprensa/noticias/89094/eaj-realiza-processo-seletivo-de-mestrado-em-ciencias-florestais-3	EAJ realiza processo seletivo de mestrado em Ciências Florestais
+2025	https://www.ufrn.br/imprensa/noticias/88748/eaj-inscreve-para-cursos-tecnicos-subsequentes	EAJ inscreve para cursos técnicos subsequentes
+2025	https://www.ufrn.br/imprensa/noticias/87704/programa-mulheres-mil-entrega-certificados-a-alunas-em-macaiba	Programa Mulheres Mil entrega certificados a alunas em Macaíba
+2025	https://www.ufrn.br/imprensa/noticias/87666/ppg-em-ciencias-florestais-inscreve-para-aluno-especial-no-mestrado	PPG em Ciências Florestais inscreve para Aluno Especial no mestrado
+2025	https://www.ufrn.br/imprensa/noticias/87257/ufrn-prorroga-inscricoes-para-cursos-tecnicos-da-escola-agricola-de-jundiai	UFRN prorroga inscrições para cursos técnicos da Escola Agrícola de Jundiaí
+2025	https://www.ufrn.br/imprensa/noticias/86748/programa-da-eaj-leva-formacao-tecnica-e-inclusao-a-municipios-do-rn	Programa da EAJ leva formação técnica e inclusão a municípios do RN
+2024	https://www.ufrn.br/imprensa/noticias/86350/escola-agricola-de-jundiai-celebra-75-anos-de-fundacao	Escola Agrícola de Jundiaí celebra 75 anos de fundação
+2024	https://www.ufrn.br/imprensa/noticias/85945/eaj-realiza-mostra-de-cursos-e-profissoes	EAJ realiza Mostra de Cursos e Profissões
+2024	https://www.ufrn.br/imprensa/noticias/85943/estudantes-da-eaj-participam-do-11o-congresso-internacional-do-programa-despertando-vocacoes	Estudantes da EAJ participam do 11º Congresso Internacional do Programa Despertando Vocações
+2024	https://www.ufrn.br/imprensa/noticias/85138/eaj-lanca-projeto-para-atender-empreendedores-de-macaiba	EAJ lança projeto para atender empreendedores de Macaíba
+2024	https://www.ufrn.br/imprensa/noticias/85067/gremio-estudantil-da-eaj-ufrn-comemora-71-anos-de-criacao	Grêmio Estudantil da EAJ/UFRN comemora 71 anos de criação
+2024	https://www.ufrn.br/imprensa/noticias/84626/escola-agricola-de-jundiai-realiza-leilao-de-bovinos	Escola Agrícola de Jundiaí realiza Leilão de Bovinos
+2024	https://www.ufrn.br/imprensa/noticias/84613/acoes-de-extensao-da-eaj-promovem-desenvolvimento-e-educacao	Ações de extensão da EAJ promovem desenvolvimento e educação
+2024	https://www.ufrn.br/imprensa/noticias/84289/por-dentro-do-campus-visita-escola-agricola-de-jundiai	Por Dentro do Campus visita Escola Agrícola de Jundiaí
+2024	https://www.ufrn.br/imprensa/noticias/84119/aluno-da-eaj-conquista-medalha-de-ouro-em-olimpiada-brasileira-de-robotica	Aluno da EAJ conquista medalha de ouro em Olimpíada Brasileira de Robótica
+2024	https://www.ufrn.br/imprensa/noticias/84022/mais-de-13-mil-pessoas-se-qualificaram-pelo-programa-mulheres-mil	Mais de 13 mil pessoas se qualificaram pelo Programa Mulheres Mil
+2024	https://www.ufrn.br/imprensa/noticias/83000/eaj-divulga-edital-para-45-vagas-em-cursos-tecnicos	EAJ divulga edital para 45 vagas em cursos técnicos
+2024	https://www.ufrn.br/imprensa/noticias/82809/eaj-inscreve-para-curso-de-eletricista-de-sistemas-de-energias-renovaveis	EAJ inscreve para curso de Eletricista de Sistemas de Energias Renováveis
+2024	https://www.ufrn.br/imprensa/noticias/82714/estudante-da-eaj-e-premiada-no-12o-simposio-brasileiro-de-pos-graduacao-em-ciencias-florestais	Estudante da EAJ é premiada no 12º Simpósio Brasileiro de Pós-Graduação em Ciências Florestais
+2024	https://www.ufrn.br/imprensa/noticias/82132/eaj-realiza-abertura-da-2a-semana-da-zootecnia	EAJ realiza abertura da 2ª Semana da Zootecnia
+2024	https://www.ufrn.br/imprensa/noticias/81711/escola-agricola-de-jundiai-oferece-160-vagas-em-cursos-tecnicos	Escola Agrícola de Jundiaí oferece 160 vagas em cursos técnicos
+2024	https://www.ufrn.br/imprensa/noticias/81534/eaj-divulga-edital-para-160-vagas-em-cursos-tecnicos	EAJ divulga edital para 160 vagas em cursos técnicos
+2024	https://www.ufrn.br/imprensa/noticias/81071/ufrn-sedia-congresso-sobre-estudos-de-microalgas	UFRN sedia congresso sobre estudos de microalgas
+2024	https://www.ufrn.br/imprensa/noticias/80562/eaj-entrega-certificados-do-programa-mulheres-mil-em-arez	EAJ entrega certificados do Programa Mulheres Mil em Arez
+2024	https://www.ufrn.br/imprensa/noticias/80441/eaj-abre-edital-para-curso-de-eletricista-de-sistema-renovaveis	EAJ abre edital para curso de eletricista de sistema renováveis
+2024	https://www.ufrn.br/imprensa/noticias/80297/eaj-divulga-edital-para-leilao-de-suinos	EAJ divulga edital para leilão de suínos
+2024	https://www.ufrn.br/imprensa/noticias/80151/professora-da-eaj-participa-de-projeto-de-cooperacao-na-malasia	Professora da EAJ participa de projeto de cooperação na Malásia
+2024	https://www.ufrn.br/imprensa/noticias/80100/alunos-da-eaj-sao-classificados-para-fase-presencial-da-olimpiada-brasileira-de-agropecuaria	Alunos da EAJ são classificados para fase presencial da Olimpíada Brasileira de Agropecuária
+2024	https://www.ufrn.br/imprensa/noticias/80119/eaj-promove-leilao-de-bovinos-da-raca-girolando	EAJ promove leilão de bovinos da raça girolando
+2024	https://www.ufrn.br/imprensa/noticias/80027/eaj-abre-processo-seletivo-para-mestrado-em-producao-animal	EAJ abre processo seletivo para mestrado em Produção Animal
+2024	https://www.ufrn.br/imprensa/noticias/79958/seguem-abertas-inscricoes-do-processo-seletivo-para-mestrado-em-ciencias-florestais	Seguem abertas inscrições do processo seletivo para mestrado em Ciências Florestais
+2024	https://www.ufrn.br/imprensa/noticias/79914/eaj-recebe-2o-circuito-tecnologico-da-mandioca	EAJ recebe 2º Circuito Tecnológico da Mandioca
+2024	https://www.ufrn.br/imprensa/noticias/79842/aluno-da-eaj-se-classifica-para-etapa-nacional-dos-jogos-escolares-brasileiros	Aluno da EAJ se classifica para etapa nacional dos Jogos Escolares Brasileiros
+2024	https://www.ufrn.br/imprensa/noticias/79802/inscricoes-para-cadastro-reserva-de-professores-da-eja-ept-terminam-nesta-quinta-feira	Inscrições para cadastro reserva de professores da EJA EPT terminam nesta quinta-feira
+2024	https://www.ufrn.br/imprensa/noticias/79729/ufrn-participa-de-lancamento-do-programa-pe-de-meia	UFRN participa de lançamento do Programa Pé-de-Meia
+2024	https://www.ufrn.br/imprensa/noticias/79711/projeto-da-eaj-incentiva-diversidade-alimentar-em-municipios-do-rn	Projeto da EAJ incentiva diversidade alimentar em municípios do RN
+2024	https://www.ufrn.br/imprensa/noticias/79687/eaj-participa-do-sabores-da-pipa-festival-gastronomico	EAJ participa do Sabores da Pipa Festival Gastronômico
+2024	https://www.ufrn.br/imprensa/noticias/79641/curso-em-analise-e-desenvolvimento-de-sistemas-da-eaj-cria-empresa-junior	Curso em Análise e Desenvolvimento de Sistemas da EAJ cria Empresa Júnior
+2024	https://www.ufrn.br/imprensa/noticias/79565/eaj-abre-chamada-publica-para-produtores-da-agricultura-familiar	EAJ abre chamada pública para produtores da agricultura familiar
+2024	https://www.ufrn.br/imprensa/noticias/79481/projetos-desenvolvidos-na-eaj-recebem-premio-inovacao-das-aguas-potiguares	Projetos desenvolvidos na EAJ recebem Prêmio Inovação das Águas Potiguares
+2024	https://www.ufrn.br/imprensa/noticias/79476/eaj-realiza-curso-de-desempenho-escolar-para-alunos-ingressantes	EAJ realiza curso de desempenho escolar para alunos ingressantes
+2024	https://www.ufrn.br/imprensa/noticias/79413/projeto-de-extensao-da-eaj-abre-inscricoes	Projeto de extensão da EAJ abre inscrições
+2024	https://www.ufrn.br/imprensa/noticias/79345/curso-de-formacao-continuada-oferta-vagas-para-professores-da-eja	Curso de formação continuada oferta vagas para professores da EJA
+2024	https://www.ufrn.br/imprensa/noticias/79291/eaj-promove-acoes-alusivas-ao-dia-internacional-da-mulher	EAJ promove ações alusivas ao Dia Internacional da Mulher
+2024	https://www.ufrn.br/imprensa/noticias/78661/projeto-suino-amigo-distribui-carne-para-270-familias	Projeto Suíno Amigo distribui carne para 270 famílias
+2024	https://www.ufrn.br/imprensa/noticias/78612/ufrn-adere-a-programa-de-incentivo-a-estudantes-do-ensino-medio	UFRN adere a programa de incentivo a estudantes do ensino médio
+2024	https://www.ufrn.br/imprensa/noticias/78269/ufrn-recebe-visita-de-empresa-de-perfuracao-offshore	UFRN recebe visita de empresa de perfuração offshore
+2023	https://www.ufrn.br/imprensa/noticias/77601/estudante-da-eaj-cria-prototipo-robotico-para-auxiliar-pequenos-produtores	Estudante da EAJ cria protótipo robótico para auxiliar pequenos produtores
+2023	https://www.ufrn.br/imprensa/noticias/77162/ufrn-sedia-congresso-nordestino-de-engenharia-florestal	UFRN sedia Congresso Nordestino de Engenharia Florestal
+2023	https://www.ufrn.br/imprensa/noticias/76849/pesquisa-sobre-caprinos-da-caatinga-sera-apresentada-no-japao	Pesquisa sobre caprinos da Caatinga será apresentada no Japão
+2023	https://www.ufrn.br/imprensa/noticias/76845/eaj-encerra-programacao-da-11a-edicao-da-semana-de-ciencias-agrarias	EAJ encerra programação da 11ª edição da Semana de Ciências Agrárias
+2023	https://www.ufrn.br/imprensa/noticias/76635/eaj-vai-promover-o-7o-congresso-nordestino-de-engenharia-florestal	EAJ vai promover o 7º Congresso Nordestino de Engenharia Florestal
+2023	https://www.ufrn.br/imprensa/noticias/76413/eaj-finaliza-o-14o-congresso-brasileiro-de-agroinformatica-sbiagro-2023	EAJ finaliza o 14º Congresso Brasileiro de Agroinformática (SBIAgro 2023)
+2023	https://www.ufrn.br/imprensa/noticias/76364/eaj-finaliza-o-2o-festival-de-gastronomia	EAJ finaliza o 2º Festival de Gastronomia
+2023	https://www.ufrn.br/imprensa/noticias/76243/congresso-nordestino-de-engenharia-florestal-recebe-inscricoes	Congresso Nordestino de Engenharia Florestal recebe inscrições
+2023	https://www.ufrn.br/imprensa/noticias/76236/eaj-realiza-2o-festival-de-gastronomia	EAJ realiza 2º Festival de Gastronomia
+2023	https://www.ufrn.br/imprensa/noticias/76133/proae-divulga-resultado-parcial-do-auxilio-alimentacao-para-eaj	Proae divulga resultado parcial do auxílio alimentação para EAJ
+2023	https://www.ufrn.br/imprensa/noticias/76040/eaj-realiza-aulao-preparatorio-para-o-enem-2023	EAJ realiza aulão preparatório para o Enem 2023
+2023	https://www.ufrn.br/imprensa/noticias/75950/eaj-realiza-5a-edicao-do-eggday	EAJ realiza 5ª edição do EggDay
+2023	https://www.ufrn.br/imprensa/noticias/75763/estudantes-da-eaj-conquistam-premio-na-area-da-saude	Estudantes da EAJ conquistam prêmio na área da Saúde
+2023	https://www.ufrn.br/imprensa/noticias/75643/eaj-abre-processo-seletivo-de-mestrado-em-ciencias-florestais	EAJ abre processo seletivo de mestrado em Ciências Florestais
+2023	https://www.ufrn.br/imprensa/noticias/75541/eaj-divulga-projetos-e-acoes-na-61a-festa-do-boi	EAJ divulga projetos e ações na 61ª Festa do Boi
+2023	https://www.ufrn.br/imprensa/noticias/75446/eaj-abre-selecao-para-316-vagas-em-cursos-tecnicos	EAJ abre seleção para 316 vagas em cursos técnicos
+2023	https://www.ufrn.br/imprensa/noticias/75424/eaj-realiza-congresso-nordestino-de-engenharia-florestal	EAJ realiza Congresso Nordestino de Engenharia Florestal
+2023	https://www.ufrn.br/imprensa/noticias/75335/proae-lanca-editais-para-auxilios-residencia-e-moradia	Proae lança editais para Auxílios Residência e Moradia
+2023	https://www.ufrn.br/imprensa/noticias/75214/estudantes-da-eaj-despescam-300-kg-de-peixes-no-setor-de-aquicultura	Estudantes da EAJ despescam 300 kg de Peixes no Setor de Aquicultura
+2023	https://www.ufrn.br/imprensa/noticias/75044/eaj-recebe-o-integra-sbfic-2023-nesta-sexta-feira-29	UFRN recebe o Integra SBFic 2023 nesta sexta-feira, 29
+2023	https://www.ufrn.br/imprensa/noticias/74955/ufrn-empossa-nova-direcao-da-eaj	UFRN empossa nova Direção da EAJ
+2023	https://www.ufrn.br/imprensa/noticias/74685/eaj-semtas-e-mpt-realizam-curso-para-catadores-de-natal	EAJ, SEMTAS e MPT realizam curso para catadores de Natal
+2023	https://www.ufrn.br/imprensa/noticias/74216/divulgados-resultados-de-editais-para-pesquisadores-da-eaj-e-esufrn	Divulgados resultados de editais para pesquisadores da EAJ e ESUFRN
+2023	https://www.ufrn.br/imprensa/noticias/74077/divulgados-resultados-preliminares-para-pesquisadores-da-eaj-e-esufrn	Divulgados resultados preliminares para pesquisadores da EAJ e ESUFRN
+2023	https://www.ufrn.br/imprensa/noticias/74067/aluna-da-eaj-recebe-medalha-na-olimpiada-brasileira-de-robotica	Aluna da EAJ recebe medalha na Olimpíada Brasileira de Robótica
+2023	https://www.ufrn.br/imprensa/noticias/73408/eaj-abre-inscricoes-para-curso-sobre-praticas-de-meditacao	EAJ abre inscrições para curso sobre práticas de meditação
+2023	https://www.ufrn.br/imprensa/noticias/73396/ufrn-e-emparn-assinam-acordo-de-cooperacao	UFRN e Emparn assinam acordo de cooperação
+2023	https://www.ufrn.br/imprensa/noticias/73336/propesq-lanca-edital-para-pesquisadores-da-eaj-2	Propesq lança edital para pesquisadores da EAJ
+2023	https://www.ufrn.br/imprensa/noticias/73011/esufrn-e-eaj-ofertarao-cursos-de-formacao-pelo-programa-mulheres-mil	ESUFRN e EAJ ofertarão cursos de formação pelo Programa Mulheres Mil
+2023	https://www.ufrn.br/imprensa/noticias/72967/divulgado-o-resultado-final-do-auxilio-alimentacao-para-pos-graduacao	Divulgado o resultado final do Auxílio Alimentação para pós-graduação
+2023	https://www.ufrn.br/imprensa/noticias/72908/eaj-promove-atividades-alusivas-ao-julho-dourado	EAJ promove atividades alusivas ao Julho Dourado
+2023	https://www.ufrn.br/imprensa/noticias/72891/ufrn-inaugura-laboratorio-de-bioenergia-e-qualidade-da-madeira	UFRN inaugura Laboratório de Bioenergia e Qualidade da Madeira
+2023	https://www.ufrn.br/imprensa/noticias/72683/ufrn-participa-de-criacao-do-curso-multiplicadores-aquicolas	UFRN participa de criação do curso Multiplicadores Aquícolas
+2023	https://www.ufrn.br/imprensa/noticias/72579/sbiagro-prorroga-prazo-para-submissoes-de-trabalhos	SBIAgro prorroga prazo para submissões de trabalhos
+2023	https://www.ufrn.br/imprensa/noticias/72219/congresso-brasileiro-de-agroinformatica-recebe-trabalhos-para-publicacao	Congresso Brasileiro de Agroinformática recebe trabalhos para publicação
+2023	https://www.ufrn.br/imprensa/noticias/72050/cnpq-destaca-estudante-da-ufrn-em-premio-de-iniciacao-cientifica	CNPq destaca estudante da UFRN em prêmio de iniciação científica
+2023	https://www.ufrn.br/imprensa/noticias/71431/eaj-abre-150-vagas-para-cursos-tecnicos	EAJ abre 150 vagas para cursos técnicos
+2023	https://www.ufrn.br/imprensa/noticias/70568/proae-divulga-resultados-finais-de-auxilios-para-eaj	Proae divulga resultados finais de auxílios para EAJ
+2023	https://www.ufrn.br/imprensa/noticias/70403/divulgado-resultado-parcial-de-auxilio-alimentacao-para-pos-graduacao-2	Divulgado resultado parcial de auxílio alimentação para pós-graduação
+2023	https://www.ufrn.br/imprensa/noticias/70311/eaj-abre-inscricoes-para-curso-sobre-a-historia-da-gastronomia	EAJ abre inscrições para curso sobre a história da gastronomia
+2023	https://www.ufrn.br/imprensa/noticias/70090/divulgado-resultado-parcial-do-auxilio-moradia-e-residencia-universitaria	Divulgado resultado parcial do Auxílio Moradia e Residência Universitária
+2023	https://www.ufrn.br/imprensa/noticias/70066/restaurante-escola-da-eaj-vende-refeicoes-de-alta-qualidade-por-preco-acessivel	Restaurante Escola da EAJ vende refeições de alta qualidade por preço acessível
+2023	https://www.ufrn.br/imprensa/noticias/69832/divulgado-o-resultado-parcial-dos-auxilios-transporte-e-alimentacao-para-eaj	Divulgado o resultado parcial dos auxílios Transporte e Alimentação para EAJ
+2023	https://www.ufrn.br/imprensa/noticias/69032/inscricoes-para-auxilios-da-eaj-e-facisa-terminam-nesta-quarta-feira-29	Inscrições para auxílios da EAJ e Facisa terminam nesta quarta-feira, 29
+2023	https://www.ufrn.br/imprensa/noticias/68607/ufrn-inaugura-novas-instalacoes-de-biblioteca-da-eaj	UFRN inaugura novas instalações de biblioteca da EAJ
+2023	https://www.ufrn.br/imprensa/noticias/68238/proae-divulga-editais-de-auxilios-para-eaj-e-facisa	Proae divulga editais de auxílios para EAJ e Facisa
+2023	https://www.ufrn.br/imprensa/noticias/67779/ufrn-cria-curso-de-tecnico-em-veterinaria	UFRN cria curso de Técnico em Veterinária
+2023	https://www.ufrn.br/imprensa/noticias/67763/eaj-e-sbiagro-realizam-14a-edicao-do-congresso-brasileiro-de-agroinformatica	EAJ e SBIAgro realizam 14ª edição do Congresso Brasileiro de Agroinformática
+2023	https://www.ufrn.br/imprensa/noticias/67709/eaj-seleciona-bolsistas-para-programa-de-residencia-profissional-agricola	EAJ seleciona bolsistas para Programa de Residência Profissional Agrícola
+2023	https://www.ufrn.br/imprensa/noticias/67435/eaj-publica-2a-chamada-para-cursos-tecnicos-integrados	EAJ publica 2ª chamada para cursos técnicos integrados
+2023	https://www.ufrn.br/imprensa/noticias/67389/eaj-divulga-edital-para-auxilios-alimentacao-e-transporte-estudantil	EAJ divulga edital para Auxílios Alimentação e Transporte Estudantil
+2023	https://www.ufrn.br/imprensa/noticias/67312/eaj-publica-edital-para-auxilios-residencia-e-moradia-estudantil	EAJ publica edital para auxílios Residência e Moradia Estudantil
+2022	https://www.ufrn.br/imprensa/noticias/66927/eaj-abre-inscricoes-para-mestrado-em-producao-animal	EAJ abre inscrições para Mestrado em Produção Animal
+2022	https://www.ufrn.br/imprensa/noticias/66713/bmeaj-finaliza-agenda-de-2022-com-apresentacao-em-recife	BMEAJ finaliza agenda de 2022 com apresentação em Recife
+2022	https://www.ufrn.br/imprensa/noticias/66311/professora-da-eaj-lanca-livro-nesta-sexta-feira	Professora da EAJ lança livro nesta sexta-feira
+2022	https://www.ufrn.br/imprensa/noticias/66224/alunos-da-eaj-se-classificam-na-olimpiada-internacional-de-matematica-e-do-conhecimento	Alunos da EAJ se classificam na Olimpíada Internacional de Matemática e do Conhecimento
+2022	https://www.ufrn.br/imprensa/noticias/65957/lancado-o-edital-para-apoio-a-projetos-de-extensao-da-eaj	Lançado o edital para apoio a Projetos de Extensão da EAJ
+2022	https://www.ufrn.br/imprensa/noticias/65829/eaj-abre-simposio-potiguar-de-pos-graduacao-em-ciencias-florestais	EAJ abre Simpósio Potiguar de Pós-Graduação em Ciências Florestais
+2022	https://www.ufrn.br/imprensa/noticias/65774/eaj-realiza-o-1-festival-de-gastronomia	EAJ realiza o 1° Festival de Gastronomia
+2022	https://www.ufrn.br/imprensa/noticias/65665/eaj-formaliza-parceria-com-a-emparn	EAJ formaliza parceria com a Emparn
+2022	https://www.ufrn.br/imprensa/noticias/65612/eaj-reune-mais-de-mil-participantes-na-10a-semagraria	EAJ reúne mais de mil participantes na 10ª Semagrária
+2022	https://www.ufrn.br/imprensa/noticias/65466/eaj-realiza-abertura-da-10a-semagraria-e-1o-encontro-de-extensao	EAJ realiza abertura da 10ª Semagrária e 1º Encontro de Extensão
+2022	https://www.ufrn.br/imprensa/noticias/65267/eaj-realiza-10a-semana-academica-de-ciencias-agrarias	EAJ realiza 10ª Semana Acadêmica de Ciências Agrárias
+2022	https://www.ufrn.br/imprensa/noticias/65088/estudantes-da-eaj-sao-premiados-em-congresso-de-ict	Estudantes da EAJ são premiados em congresso de IC&amp;T
+2022	https://www.ufrn.br/imprensa/noticias/65024/proae-divulga-resultado-final-de-auxilios-para-alunos-da-eaj	Proae divulga resultado final de auxílios para alunos da EAJ
+2022	https://www.ufrn.br/imprensa/noticias/65003/eaj-abre-inscricoes-do-processo-seletivo-para-cursos-tecnicos	EAJ abre inscrições do processo seletivo para cursos técnicos
+2022	https://www.ufrn.br/imprensa/noticias/64996/eaj-inaugura-area-experimental-de-engenharia-agronomica	EAJ inaugura Área Experimental de Engenharia Agronômica
+2022	https://www.ufrn.br/imprensa/noticias/64878/mes-do-servidor-realiza-acao-de-interiorizacao-nas-unidades-do-serido	Mês do Servidor realiza ação de interiorização nos campi do interior
+2022	https://www.ufrn.br/imprensa/noticias/64730/eaj-e-premiada-na-1a-feira-de-ciencias-e-mostras-cientificas-do-isd	EAJ é premiada na 1ª Feira de Ciências e Mostras Científicas do ISD
+2022	https://www.ufrn.br/imprensa/noticias/64728/eaj-participa-da-60a-edicao-da-festa-do-boi	EAJ participa da 60ª edição da Festa do Boi
+2022	https://www.ufrn.br/imprensa/noticias/64705/curso-de-gastronomia-da-eaj-inaugura-restaurante-escola	Curso de Gastronomia da EAJ inaugura Restaurante Escola
+2022	https://www.ufrn.br/imprensa/noticias/64666/eaj-abre-inscricoes-para-7o-agrotec	EAJ abre inscrições para 7º Agrotec
+2022	https://www.ufrn.br/imprensa/noticias/64610/eaj-publica-edital-do-processo-seletivo-para-cursos-tecnicos	EAJ publica edital do processo seletivo para cursos técnicos
+2022	https://www.ufrn.br/imprensa/noticias/64567/eaj-forma-turmas-em-curso-de-qualificacao-profissional	EAJ forma turmas em curso de qualificação profissional
+2022	https://www.ufrn.br/imprensa/noticias/64456/eaj-inaugura-laboratorio-de-microscopia	EAJ inaugura Laboratório de Microscopia
+2022	https://www.ufrn.br/imprensa/noticias/64441/banda-de-musica-da-eaj-se-apresenta-no-teatro-alberto-maranhao	Banda de Música da EAJ se apresenta no Teatro Alberto Maranhão
+2022	https://www.ufrn.br/imprensa/noticias/64288/eaj-realiza-palestras-sobre-empreendedorismo-universitario	EAJ realiza palestras sobre empreendedorismo universitário
+2022	https://www.ufrn.br/imprensa/noticias/64036/eaj-inicia-projeto-de-matrizes-de-umbu-cajazeiras	EAJ inicia projeto de matrizes de umbu-cajazeiras
+2022	https://www.ufrn.br/imprensa/noticias/64019/eaj-realiza-formatura-de-turmas-do-subsequente	EAJ realiza formatura de turmas do subsequente
+2022	https://www.ufrn.br/imprensa/noticias/63870/curso-de-gastronomia-da-eaj-promove-a-lanchonete-escola	Curso de Gastronomia da EAJ promove a Lanchonete Escola
+2022	https://www.ufrn.br/imprensa/noticias/63296/eaj-conquista-premio-maker-na-olimpiada-brasileira-de-robotica	EAJ conquista Prêmio Maker na Olimpíada Brasileira de Robótica
+2022	https://www.ufrn.br/imprensa/noticias/63240/estudante-da-eaj-conquista-medalha-de-bronze-na-olimpiada-brasileira-de-robotica	Estudante da EAJ conquista medalha de bronze na Olimpíada Brasileira de Robótica
+2022	https://www.ufrn.br/imprensa/noticias/63186/programa-novos-caminhos-seleciona-professores-para-atuar-em-mossoro	Programa Novos Caminhos seleciona professores para atuar em Mossoró
+2022	https://www.ufrn.br/imprensa/noticias/63170/eaj-conquista-1o-lugar-na-fase-estadual-da-obr	EAJ conquista 1º lugar na fase estadual da OBR
+2022	https://www.ufrn.br/imprensa/noticias/63135/eaj-participa-de-etapa-estadual-da-obr-neste-domingo	EAJ participa de etapa estadual da OBR neste domingo
+2022	https://www.ufrn.br/imprensa/noticias/62901/eaj-promove-o-capacitacao-terra-brasil	EAJ promove o Capacitação Terra Brasil
+2022	https://www.ufrn.br/imprensa/noticias/62813/eaj-seleciona-professores-para-programa-voltado-a-agricultura-familiar	EAJ seleciona professores para programa voltado à agricultura familiar
+2022	https://www.ufrn.br/imprensa/noticias/62547/ufrn-e-itc-bio-discutem-implantacao-de-biofabrica-em-caico	UFRN e ITC Bio discutem implantação de biofábrica em Caicó
+2022	https://www.ufrn.br/imprensa/noticias/62485/eaj-realiza-leilao-de-bovinos-da-raca-girolando	EAJ realiza leilão de bovinos da raça girolando
+2022	https://www.ufrn.br/imprensa/noticias/62350/eaj-promove-acao-de-sustentabilidade-e-causa-animal-na-arena-das-dunas	EAJ promove ação de sustentabilidade e causa animal na Arena das Dunas
+2022	https://www.ufrn.br/imprensa/noticias/62151/eaj-divulga-editais-de-assistencia-estudantil-para-alunos-dos-cursos-tecnicos	EAJ divulga editais de assistência estudantil para alunos dos cursos técnicos
+2022	https://www.ufrn.br/imprensa/noticias/62059/eaj-lanca-edital-para-leilao-de-bovinos	EAJ lança edital para leilão de bovinos
+2022	https://www.ufrn.br/imprensa/noticias/61912/propesq-e-eaj-divulgam-edital-de-iniciacao-tecnologica	Propesq e EAJ divulgam edital de iniciação tecnológica
+2022	https://www.ufrn.br/imprensa/noticias/61719/eaj-abre-inscricoes-para-curso-tecnico-em-aquicultura	EAJ abre inscrições para curso técnico em Aquicultura
+2022	https://www.ufrn.br/imprensa/noticias/61532/programa-novos-caminhos-publica-edital-para-selecao-de-professores	Programa Novos Caminhos publica edital para seleção de professores
+2022	https://www.ufrn.br/imprensa/noticias/61191/curso-de-gastronomia-realiza-almoco-na-eaj	Curso de Gastronomia realiza “Almoço na EAJ”
+2022	https://www.ufrn.br/imprensa/noticias/61062/eaj-comemora-o-dia-do-engenheiro-florestal-com-rodada-de-palestras	EAJ comemora o dia do engenheiro florestal com rodada de palestras
+2022	https://www.ufrn.br/imprensa/noticias/60829/eaj-divulga-resultado-preliminar-para-cursos-tecnicos-subsequentes	EAJ divulga resultado preliminar para cursos técnicos subsequentes
+2022	https://www.ufrn.br/imprensa/noticias/60726/eaj-realiza-palestra-sobre-atuacao-do-professor-e-empreendedorismo	EAJ realiza palestra sobre atuação do professor e empreendedorismo
+2022	https://www.ufrn.br/imprensa/noticias/60724/icts-discutem-melhorias-na-infraestrutura-de-macaiba	ICTs discutem melhorias na infraestrutura de Macaíba
+2022	https://www.ufrn.br/imprensa/noticias/60660/curso-da-eaj-promove-imersao-ao-mundo-dos-vinhos	Curso da EAJ promove imersão ao mundo dos vinhos
+2022	https://www.ufrn.br/imprensa/noticias/60533/aluna-da-eaj-recebe-premios-na-feira-brasileira-de-jovens-cientistas	Aluna da EAJ recebe prêmios na Feira Brasileira de Jovens Cientistas
+2022	https://www.ufrn.br/imprensa/noticias/59745/eaj-realiza-abertura-da-i-semana-de-zootecnia	EAJ realiza abertura da I Semana de Zootecnia
+2022	https://www.ufrn.br/imprensa/noticias/59642/eaj-realiza-1-integra-agroindustria	EAJ realiza 1° Integra Agroindústria
+2022	https://www.ufrn.br/imprensa/noticias/59543/eaj-publica-edital-do-leilao-de-bovinos	EAJ publica edital do leilão de bovinos
+2022	https://www.ufrn.br/imprensa/noticias/59358/eaj-oferece-vagas-para-o-curso-tecnico-em-gastronomia	EAJ oferece vagas para o curso técnico em Gastronomia
+2022	https://www.ufrn.br/imprensa/noticias/59221/eaj-recebe-camara-especializada-de-agronomia-do-crea-rn	EAJ recebe Câmara Especializada de Agronomia do CREA-RN
+2022	https://www.ufrn.br/imprensa/noticias/59191/eaj-publica-edital-de-selecao-de-alunos-para-cursos-tecnicos	EAJ publica edital de seleção de alunos para cursos técnicos
+2022	https://www.ufrn.br/imprensa/noticias/59129/incubadora-da-eaj-tem-novo-gerente-executivo	Incubadora da EAJ tem novo gerente executivo
+2022	https://www.ufrn.br/imprensa/noticias/59118/proae-divulga-resultado-final-dos-auxilios-moradia-e-residencia	Proae divulga resultado final dos Auxílios Moradia e Residência
+2022	https://www.ufrn.br/imprensa/noticias/59015/ufrn-abre-selecao-para-professores-substitutos-em-32-unidades	UFRN abre seleção para professores substitutos em 32 unidades
+2022	https://www.ufrn.br/imprensa/noticias/58968/maricultura-de-macroalgas-no-nordeste-do-brasil-retoma-atividades-praticas	Maricultura de Macroalgas no Nordeste do Brasil retoma atividades práticas
+2022	https://www.ufrn.br/imprensa/noticias/58906/dasap-divulga-resultado-final-do-auxilio-transporte-da-eaj	Dasap divulga resultado final do Auxílio Transporte da EAJ
+2022	https://www.ufrn.br/imprensa/noticias/58804/felcs-oferta-curso-gratuito-em-parceria-com-a-eaj	Felcs oferta curso gratuito em parceria com a EAJ
+2022	https://www.ufrn.br/imprensa/noticias/58769/eaj-sedia-final-do-3o-simposio-potiguar-de-zootecnia	EAJ sedia final do 3º Simpósio Potiguar de Zootecnia
+2022	https://www.ufrn.br/imprensa/noticias/58359/eaj-realizou-a-semana-internacional-de-compostagem	EAJ realizou a Semana Internacional de Compostagem
+2022	https://www.ufrn.br/imprensa/noticias/58317/aluna-da-eaj-conquista-ouro-na-1a-feira-interativa-de-tecnologia-e-ciencia-brasil	Aluna da EAJ conquista ouro na 1ª Feira Interativa de Tecnologia e Ciência Brasil
+2022	https://www.ufrn.br/imprensa/noticias/58231/eaj-inaugura-bloco-de-aulas-e-residencia	EAJ inaugura bloco de aulas e residência
+2022	https://www.ufrn.br/imprensa/noticias/57950/eaj-recebe-inscricoes-para-professores-no-programa-novos-caminhos	EAJ recebe inscrições para professores no programa Novos Caminhos
+2022	https://www.ufrn.br/imprensa/noticias/57895/professora-da-eaj-debate-importancia-da-caatinga-no-senado	Professora da EAJ debate importância da Caatinga no Senado
+2022	https://www.ufrn.br/imprensa/noticias/57541/eaj-oferece-vagas-em-curso-profissionalizante-gratuito	EAJ oferece vagas em curso profissionalizante gratuito
+2022	https://www.ufrn.br/imprensa/noticias/57316/eaj-entrega-medalhas-das-olimpiadas-do-conhecimento	EAJ entrega medalhas das Olimpíadas do Conhecimento
+2022	https://www.ufrn.br/imprensa/noticias/57179/atividades-presenciais-entusiasmam-comunidade-academica-na-eaj	Atividades presenciais entusiasmam comunidade acadêmica na EAJ
+2022	https://www.ufrn.br/imprensa/noticias/57165/eaj-recebe-cavalos-doados-pela-abqm-e-ande-brasil	EAJ recebe cavalos doados pela ABQM e Ande Brasil
+2022	https://www.ufrn.br/imprensa/noticias/57068/comunidade-da-ufrn-comemora-inicio-do-2022	Comunidade da UFRN comemora início do 2022
+2022	https://www.ufrn.br/imprensa/noticias/57046/reitoria-conversa-com-estudantes-da-eaj	Reitoria conversa com estudantes da EAJ
+2022	https://www.ufrn.br/imprensa/noticias/56994/workshop-do-agronordeste-na-eaj-marca-inicio-de-emissao-de-cafs-no-brasil	Workshop do Agronordeste na EAJ marca início de emissão de CAFs no Brasil
+2022	https://www.ufrn.br/imprensa/noticias/56921/pop-rn-abre-vagas-para-estudantes-de-ti-engenharia-e-administracao	PoP-RN abre vagas para estudantes de TI, Engenharia e Administração
+2022	https://www.ufrn.br/imprensa/noticias/56812/selecao-aberta-a-profissionais-para-o-programa-novos-caminhos-da-eaj	Seleção aberta a profissionais para o Programa Novos Caminhos da EAJ
+2022	https://www.ufrn.br/imprensa/noticias/56039/eaj-em-harvard-aluna-fala-sobre-experiencia-na-simulacao-da-onu	EAJ em Harvard: aluna fala sobre experiência na Simulação da ONU
+2022	https://www.ufrn.br/imprensa/noticias/55871/ultimo-dia-para-inscricoes-no-curso-tecnico-em-aquicultura-da-eaj	Último dia para inscrições no Curso Técnico em Aquicultura da EAJ
+2022	https://www.ufrn.br/imprensa/noticias/55808/proae-orienta-sobre-prestacao-de-contas-do-auxilio-instrumental	Proae orienta sobre prestação de contas do Auxílio Instrumental
+2022	https://www.ufrn.br/imprensa/noticias/55759/eaj-lanca-edital-de-vagas-remanescentes-para-curso-de-aquicultura	EAJ lança edital de vagas remanescentes para curso de Aquicultura
+2022	https://www.ufrn.br/imprensa/noticias/55693/alunos-da-eaj-sao-classificados-para-fase-final-do-campus-mobile-2022	Alunos da EAJ são classificados para fase final do Campus Mobile 2022
+2022	https://www.ufrn.br/imprensa/noticias/55582/comperve-divulga-lista-de-aprovados-para-cursos-tecnicos-da-eaj	Comperve divulga lista de aprovados para cursos técnicos da EAJ
+2022	https://www.ufrn.br/imprensa/noticias/55259/eaj-oferece-curso-gratuito-sobre-recursos-hidricos-e-energia	EAJ oferece curso gratuito sobre recursos hídricos e energia
+2022	https://www.ufrn.br/imprensa/noticias/55227/eaj-garante-bolsas-para-24-pesquisadores-de-iniciacao-cientifica	EAJ garante bolsas para 24 pesquisadores de iniciação científica
+2022	https://www.ufrn.br/imprensa/noticias/55177/eaj-abre-incricoes-para-curso-tecnico-em-aquicultura	EAJ abre incrições para Curso Técnico em Aquicultura
+2022	https://www.ufrn.br/imprensa/noticias/54991/lancado-edital-para-curso-tecnico-em-aquicultura	Lançado edital para Curso Técnico em Aquicultura
+2022	https://www.ufrn.br/imprensa/noticias/54693/ppgpa-seleciona-para-mestrado-em-producao-animal	PPgPA seleciona para mestrado em Produção Animal
+2021	https://www.ufrn.br/imprensa/noticias/54281/alunos-de-gastronomia-servem-menu-degustacao-para-publico-externo	Alunos de Gastronomia servem menu degustação para público externo
+2021	https://www.ufrn.br/imprensa/noticias/54095/projetos-da-eaj-sao-premiados-em-congresso-internacional	Projetos da EAJ são premiados em Congresso Internacional
+2021	https://www.ufrn.br/imprensa/noticias/53967/grupo-de-maricultura-da-eaj-se-reune-com-ambap-e-comunidade-pesqueira-de-pitangui	Grupo de maricultura da EAJ se reúne com AMBAP e comunidade pesqueira de Pitangui
+2021	https://www.ufrn.br/imprensa/noticias/53843/professores-da-ufrn-participam-de-webminicursos-da-sbpc	Professores da UFRN participam de webminicursos da SBPC
+2021	https://www.ufrn.br/imprensa/noticias/53852/inscricoes-para-cursos-tecnicos-da-eaj-comecam-nesta-quinta-feira	Inscrições para cursos técnicos da EAJ começam nesta quinta-feira
+2021	https://www.ufrn.br/imprensa/noticias/53685/aluno-da-eaj-conquista-bolsa-de-iniciacao-cientifica-junior	Aluno da EAJ conquista bolsa de Iniciação Científica Júnior
+2021	https://www.ufrn.br/imprensa/noticias/53301/eaj-lanca-edital-para-processo-seletivo-de-cursos-tecnicos	EAJ lança edital para processo seletivo de cursos técnicos
+2021	https://www.ufrn.br/imprensa/noticias/53180/eaj-promove-encontro-sobre-integracao-entre-ensino-pesquisa-e-extensao	EAJ promove encontro sobre integração entre Ensino, Pesquisa e Extensão
+2021	https://www.ufrn.br/imprensa/noticias/53006/nova-empresa-junior-rusticus-proporciona-aprendizagem-e-experiencias	Nova empresa júnior Rusticus proporciona aprendizagem e experiências
+2021	https://www.ufrn.br/imprensa/noticias/53004/ufrn-institui-argumento-de-inclusao-da-agricultura-familiar	UFRN institui argumento de inclusão da agricultura familiar
+2021	https://www.ufrn.br/imprensa/noticias/52708/propesq-lanca-edital-para-pesquisadores-da-eaj	Propesq lança edital para pesquisadores da EAJ
+2021	https://www.ufrn.br/imprensa/noticias/52663/eaj-promove-evento-sobre-o-enade-nesta-sexta-feira-5	EAJ promove evento sobre o Enade nesta sexta-feira, 5
+2021	https://www.ufrn.br/imprensa/noticias/52592/semagraria-aborda-acao-coletiva-e-resiliencia-nas-ciencias-agrarias	Semagrária aborda ação coletiva e resiliência nas Ciências Agrárias
+2021	https://www.ufrn.br/imprensa/noticias/52432/eaj-realiza-processo-seletivo-de-mestrado-em-ciencias-florestais-2	EAJ realiza processo seletivo de mestrado em Ciências Florestais
+2021	https://www.ufrn.br/imprensa/noticias/52370/eaj-ufrn-estuda-melhorias-no-cultivo-de-spirulina-e-chlorella	EAJ-UFRN estuda melhorias no cultivo de Spirulina e Chlorella
+2021	https://www.ufrn.br/imprensa/noticias/51919/professores-da-eaj-organizam-simulado-para-enem-2021	Professores da EAJ organizam simulado para ENEM 2021
+2021	https://www.ufrn.br/imprensa/noticias/51823/evento-aborda-inovacao-em-agronegocio	Evento aborda Inovação em Agronegócio
+2021	https://www.ufrn.br/imprensa/noticias/51407/eaj-participa-da-semana-nacional-da-educacao-profissional-e-tecnologica	EAJ participa da Semana Nacional da Educação Profissional e Tecnológica
+2021	https://www.ufrn.br/imprensa/noticias/51169/alunos-da-eaj-conquistam-medalha-em-olimpiada-de-robotica	Alunos da EAJ conquistam medalha em olimpíada de robótica
+2021	https://www.ufrn.br/imprensa/noticias/50935/prosa-no-campo-e-a-mais-nova-atracao-da-fm-universitaria	Prosa no Campo é a mais nova atração da FM Universitária
+2021	https://www.ufrn.br/imprensa/noticias/50739/escola-agricola-de-jundiai-e-isd-utilizam-equoterapia-em-pacientes	Escola Agrícola de Jundiaí e ISD utilizam equoterapia em pacientes
+2021	https://www.ufrn.br/imprensa/noticias/50344/eaj-divulga-processo-seletivo-para-cursos-tecnicos-subsequentes	EAJ divulga processo seletivo para cursos Técnicos Subsequentes
+2021	https://www.ufrn.br/imprensa/noticias/50220/eaj-implanta-unidade-de-referencia-tecnologica-em-macaiba	EAJ implanta Unidade de Referência Tecnológica em Macaíba
+2021	https://www.ufrn.br/imprensa/noticias/49910/aluna-da-eaj-participa-de-simulacoes-da-onu-em-harvard	Aluna da EAJ participa de simulações da ONU em Harvard
+2021	https://www.ufrn.br/imprensa/noticias/49800/estudantes-da-eaj-conquistam-medalhas-na-olimpiada-brasileira-de-astronomia-e-na-mostra-brasileira-de-foguetes	Estudantes da EAJ conquistam medalhas na Olimpíada Brasileira de Astronomia e na Mostra Brasileira de Foguetes
+2021	https://www.ufrn.br/imprensa/noticias/49102/feira-solidaria-traz-novidades-na-sua-quinta-edicao	Feira Solidária traz novidades na sua quinta edição
+2021	https://www.ufrn.br/imprensa/noticias/48568/eaj-oferece-curso-para-professores-de-todo-o-brasil	EAJ oferece curso para professores de todo o Brasil
+2021	https://www.ufrn.br/imprensa/noticias/48300/ufrn-desenvolve-aplicativo-que-avalia-desempenho-cognitivo-de-equinos	UFRN desenvolve aplicativo que avalia desempenho cognitivo de equinos
+2021	https://www.ufrn.br/imprensa/noticias/47771/programa-novos-caminhos-comemora-aniversario-com-publicacao-de-revista	Programa Novos Caminhos comemora aniversário com publicação de revista
+2021	https://www.ufrn.br/imprensa/noticias/47404/eaj-realiza-evento-do-dia-do-zootecnista	EAJ realiza evento do Dia do Zootecnista
+2021	https://www.ufrn.br/imprensa/noticias/47240/eaj-promove-selecao-de-bolsistas-para-projeto-de-inclusao-social-2	EAJ promove seleção de bolsistas para projeto de inclusão social
+2021	https://www.ufrn.br/imprensa/noticias/47206/eaj-promove-selecao-de-bolsistas-para-projeto-de-inclusao-social	EAJ promove seleção de bolsistas para projeto de inclusão social
+2021	https://www.ufrn.br/imprensa/noticias/46972/empresa-comeca-processo-de-pre-incubacao-em-macaiba	Empresa começa processo de pré-incubação em Macaíba
+2021	https://www.ufrn.br/imprensa/noticias/46487/projeto-da-eaj-vai-promover-curso-de-robotica-para-jovens-de-escolas-publicas-do-rn	Projeto da EAJ vai promover curso de robótica para jovens de escolas públicas do RN
+2021	https://www.ufrn.br/imprensa/noticias/46013/banda-de-musica-da-eaj-continua-encantando-atraves-das-redes-sociais	Banda de Música da EAJ continua encantando através das redes sociais
+2021	https://www.ufrn.br/imprensa/noticias/45922/projeto-da-eaj-realiza-acoes-artisticas-e-culturais-por-meio-de-oficinas-de-teatro	Projeto da EAJ realiza ações artísticas e culturais por meio de oficinas de teatro
+2021	https://www.ufrn.br/imprensa/noticias/45751/eaj-promove-projeto-que-conecta-sociedade-a-ciencia	EAJ promove projeto que conecta sociedade à ciência
+2021	https://www.ufrn.br/imprensa/noticias/45663/projeto-da-eaj-leva-cultura-e-formacao-social-aos-estudantes	Projeto da EAJ leva cultura e formação social aos estudantes
+2021	https://www.ufrn.br/imprensa/noticias/45569/beneficios-do-colostro-bovino-sao-investigados-pela-eaj-e-facisa	Benefícios do colostro bovino são investigados pela EAJ e Facisa
+2021	https://www.ufrn.br/imprensa/noticias/45542/estudantes-da-eaj-apresentam-projetos-na-febrace	Estudantes da EAJ apresentam projetos na Febrace
+2021	https://www.ufrn.br/imprensa/noticias/45524/incubadora-da-ufrn-em-macaiba-inicia-pre-incubacao-de-empresa	Incubadora da UFRN em Macaíba inicia pré-incubação de empresa
+2021	https://www.ufrn.br/imprensa/noticias/45199/estudantes-da-eaj-ganham-medalha-nacional-na-olimpiada-brasileira-de-robotica	Estudantes da EAJ ganham medalha nacional na Olimpíada Brasileira de Robótica
+2021	https://www.ufrn.br/imprensa/noticias/45188/empresa-junior-da-eaj-realiza-formacao-sobre-empreendedorismo-rural	Empresa Júnior da EAJ realiza formação sobre empreendedorismo rural
+2021	https://www.ufrn.br/imprensa/noticias/45028/programa-novos-caminhos-abre-inscricoes-para-cursos-de-qualificacao	Programa Novos Caminhos abre inscrições para cursos de qualificação
+2021	https://www.ufrn.br/imprensa/noticias/44949/ufrn-e-estado-discutem-parceria-para-analise-da-producao-leiteira	UFRN e Estado discutem parceria para análise da produção leiteira
+2021	https://www.ufrn.br/imprensa/noticias/44721/eaj-abre-inscricoes-para-projeto-do-programa-de-residencia-profissional-agricola	EAJ abre inscrições para projeto do Programa de Residência Profissional Agrícola
+2021	https://www.ufrn.br/imprensa/noticias/44575/eaj-abre-selecao-de-bolsistas-para-programa-de-residencia-profissional-agricola	EAJ abre seleção de bolsistas para Programa de Residência Profissional Agrícola
+2021	https://www.ufrn.br/imprensa/noticias/44537/eaj-abre-inscricoes-para-processo-seletivo-de-cursos-tecnicos	EAJ abre inscrições para processo seletivo de cursos técnicos
+2021	https://www.ufrn.br/imprensa/noticias/44248/agrojundiai-aproxima-universidade-e-comunidade-agricola	AGROJundiaí aproxima universidade e comunidade agrícola
+2021	https://www.ufrn.br/imprensa/noticias/44143/eaj-divulga-edital-de-processo-seletivo-para-cursos-tecnicos	EAJ divulga edital de processo seletivo para cursos técnicos
+2021	https://www.ufrn.br/imprensa/noticias/44009/potirural-projeto-visa-a-criacao-de-espaco-para-produtores-rurais-na-web	PotiRural: projeto visa à criação de espaço para produtores rurais na web
+2021	https://www.ufrn.br/imprensa/noticias/44003/eaj-ufrn-realiza-colacao-de-grau-dos-cursos-de-graduacao	EAJ-UFRN realiza colação de grau dos cursos de graduação
+2021	https://www.ufrn.br/imprensa/noticias/43850/eaj-realiza-processo-seletivo-de-mestrado-em-ciencias-florestais	EAJ realiza processo seletivo de mestrado em Ciências Florestais
+2021	https://www.ufrn.br/imprensa/noticias/43695/projeto-da-eaj-mostra-potencial-produtivo-da-carcinicultura	Projeto da EAJ mostra potencial produtivo da carcinicultura
+2021	https://www.ufrn.br/imprensa/noticias/43481/estudantes-da-eaj-se-classificam-para-nova-fase-da-obr	Estudantes da EAJ se classificam para nova fase da OBR
+2020	https://www.ufrn.br/imprensa/noticias/42863/eaj-e-premiada-em-congresso-internacional	EAJ é premiada em Congresso Internacional
+2020	https://www.ufrn.br/imprensa/noticias/42621/eaj-realiza-mostra-virtual-de-profissoes	EAJ realiza Mostra Virtual de Profissões
+2020	https://www.ufrn.br/imprensa/noticias/42030/eaj-promove-i-workshop-de-arborizacao	EAJ promove I Workshop de Arborização
+2020	https://www.ufrn.br/imprensa/noticias/41750/encontro-discute-educacao-de-jovens-e-adultos-em-tempos-de-pandemia	Encontro discute educação de jovens e adultos em tempos de pandemia
+2020	https://www.ufrn.br/imprensa/noticias/41598/eaj-classifica-estudantes-para-a-fase-final-da-onhb	EAJ classifica estudantes para a fase final da ONHB
+2020	https://www.ufrn.br/imprensa/noticias/41329/eaj-conquista-1a-e-2a-colocacao-em-etapa-da-olimpiada-de-robotica	EAJ conquista 1ª e 2ª colocação em etapa da Olimpíada de Robótica
+2020	https://www.ufrn.br/imprensa/noticias/41078/eaj-inicia-processo-seletivo-para-cursos-tecnicos-subsequentes	EAJ inicia processo seletivo para cursos técnicos subsequentes
+2020	https://www.ufrn.br/imprensa/noticias/41037/eaj-passa-a-ofertar-curso-tecnico-em-cozinha	EAJ passa a ofertar Curso Técnico em Cozinha
+2020	https://www.ufrn.br/imprensa/noticias/40830/eaj-realiza-evento-sobre-producao-e-consumo-de-ovo	EAJ realiza evento sobre produção e consumo de ovo
+2020	https://www.ufrn.br/imprensa/noticias/40783/eaj-estreia-programa-na-web-radio-sobre-temas-academicos-e-gerais	EAJ estreia programa na web radio sobre temas acadêmicos e gerais
+2020	https://www.ufrn.br/imprensa/noticias/40591/eaj-participa-de-evento-de-sobre-agricultura-familiar-no-rn	EAJ participa de evento de sobre Agricultura Familiar no RN
+2020	https://www.ufrn.br/imprensa/noticias/39981/projeto-promove-interacao-da-eaj-com-agricultores-familiares	Projeto promove interação da EAJ com agricultores familiares
+2020	https://www.ufrn.br/imprensa/noticias/39691/eaj-implanta-unidade-tecnica-demonstrativa-de-producao-de-acai	EAJ implanta Unidade Técnica Demonstrativa de produção de açaí
+2020	https://www.ufrn.br/imprensa/noticias/39369/eaj-divulga-aprovados-no-edital-de-concessao-do-auxilio-instrumental	EAJ divulga aprovados no edital de Concessão do Auxílio Instrumental
+2020	https://www.ufrn.br/imprensa/noticias/39195/projeto-da-eaj-vai-realizar-diagnostico-situacional-dos-criadores-de-leite-de-cabra-do-estado	Projeto da EAJ vai realizar diagnóstico situacional dos criadores de leite de cabra do Estado
+2020	https://www.ufrn.br/imprensa/noticias/38885/eaj-oferta-curso-de-aquicultura-para-alunos-de-todo-pais	EAJ oferta curso de Aquicultura para alunos de todo país
+2020	https://www.ufrn.br/imprensa/noticias/38682/eaj-desenvolve-atividades-durante-periodo-de-distanciamento-social	EAJ desenvolve atividades durante período de distanciamento social
+2020	https://www.ufrn.br/imprensa/noticias/38278/carcinicultura-sera-beneficiada-com-criacao-de-startup	Carcinicultura será beneficiada com criação de startup
+2020	https://www.ufrn.br/imprensa/noticias/38273/novos-caminhos-novas-possibilidades	Novos Caminhos, novas possibilidades
+2020	https://www.ufrn.br/imprensa/noticias/38142/eaj-realiza-reunioes-virtuais-para-tratar-da-saude-do-servidor	EAJ realiza reuniões virtuais para tratar da saúde do servidor
+2020	https://www.ufrn.br/imprensa/noticias/38044/eaj-discute-modelo-de-retomada-do-semestre-2020-1	EAJ discute modelo de retomada do semestre 2020.1
+2020	https://www.ufrn.br/imprensa/noticias/37975/eaj-realiza-live-cultural-jundiai-olhares-e-cancoes	EAJ realiza live cultural Jundiaí: Olhares e canções
+2020	https://www.ufrn.br/imprensa/noticias/37817/eaj-regulamenta-retorno-do-periodo-letivo-no-modelo-remoto	EAJ regulamenta retorno do período letivo no modelo remoto
+2020	https://www.ufrn.br/imprensa/noticias/37691/escola-agricola-promove-acoes-sociais-durante-pandemia	Escola Agrícola promove ações sociais durante pandemia
+2020	https://www.ufrn.br/imprensa/noticias/37306/alunos-da-eaj-sao-beneficiados-com-auxilio-de-inclusao-digital	Alunos da EAJ são beneficiados com Auxílio de Inclusão Digital
+2020	https://www.ufrn.br/imprensa/noticias/37225/feira-solidaria-arrecada-mais-de-10-toneladas-de-alimentos-em-3-edicoes	Feira Solidária arrecada  10 toneladas de alimentos em 3 edições
+2020	https://www.ufrn.br/imprensa/noticias/36860/projeto-feira-solidaria-da-eaj-ganha-apoios-e-chega-a-3a-edicao	Projeto Feira Solidária da EAJ ganha apoios e chega a 3ª edição
+2020	https://www.ufrn.br/imprensa/noticias/36173/eaj-realiza-segunda-feira-solidaria-para-ajudar-assentados-e-pessoas-em-vulnerabilidade	EAJ realiza segunda Feira Solidária para ajudar assentados e pessoas em vulnerabilidade
+2020	https://www.ufrn.br/imprensa/noticias/35956/acao-solidaria-da-eaj-ajuda-agricultores-de-macaiba-e-comunidade-carente-de-natal	Ação solidária da EAJ ajuda agricultores de Macaíba e comunidade carente de Natal
+2020	https://www.ufrn.br/imprensa/noticias/33995/assistencia-estudantil-auxilios-que-tornam-sonhos-realidade	Assistência estudantil: auxílios que tornam sonhos realidade
+2020	https://www.ufrn.br/imprensa/noticias/33491/novas-instalacoes-de-incubadora-sao-apresentadas-a-agencia-de-inovacao	Novas instalações de incubadora são apresentadas à Agência de Inovação
+2020	https://www.ufrn.br/imprensa/noticias/33061/escola-agricola-de-jundiai-divulga-2a-chamada-para-cursos-tecnicos	Escola Agrícola de Jundiaí  divulga 2ª chamada para cursos técnicos
+2019	https://www.ufrn.br/imprensa/noticias/32371/escola-agricola-oferece-50-vagas-para-especilizacao-em-gestao-ambiental	Escola Agrícola oferece 50 vagas para Especialização em Gestão Ambiental
+2019	https://www.ufrn.br/imprensa/noticias/32167/aluno-da-eaj-conquista-medalha-na-olimpiada-brasileira-de-robotica	Aluno da EAJ conquista medalha na Olimpíada Brasileira de Robótica
+2019	https://www.ufrn.br/imprensa/noticias/32009/projeto-voador-tem-continuidade-na-eaj	Projeto voador tem continuidade na EAJ
+2019	https://www.ufrn.br/imprensa/noticias/31684/projeto-da-eaj-que-incentiva-renda-extra-comeca-a-ser-implantado	Projeto da EAJ que incentiva renda extra começa a ser implantado
+2019	https://www.ufrn.br/imprensa/noticias/31663/ufrn-e-emparn-discutem-parceria-na-area-agroindustrial	UFRN e Emparn discutem parceria na área agroindustrial
+2019	https://www.ufrn.br/imprensa/noticias/31545/eaj-emprega-tecnologias-para-producao-de-mudas-e-reflorestamento	EAJ emprega tecnologias para produção de mudas e reflorestamento
+2019	https://www.ufrn.br/imprensa/noticias/31453/alunos-da-eaj-realizam-apresentacoes-inspiradas-em-obras-da-literatura	Alunos da EAJ realizam apresentações inspiradas em obras da literatura
+2019	https://www.ufrn.br/imprensa/noticias/31418/eaj-realiza-i-simposio-potiguar-em-ciencias-florestais	EAJ realiza I Simpósio Potiguar em Ciências Florestais
+2019	https://www.ufrn.br/imprensa/noticias/31359/equoterapia-no-tratamento-de-alunos-com-necessidades-especiais	Equoterapia no tratamento de alunos com necessidades especiais
+2019	https://www.ufrn.br/imprensa/noticias/31226/projeto-da-eaj-utiliza-jiu-jitsu-para-melhorr-qualidade-de-vida	EAJ utiliza Jiu Jitsu para melhorar qualidade de vida no trabalho
+2019	https://www.ufrn.br/imprensa/noticias/31165/equipe-da-eaj-vence-etapa-regional-do-ideas-for-milk	Equipe da EAJ vence etapa regional do Ideas For Milk
+2019	https://www.ufrn.br/imprensa/noticias/31018/ufrn-oferece-capacitacao-tecnologica-na-rede-giga-metropole	UFRN oferece capacitação tecnológica na Rede Giga Metrópole
+2019	https://www.ufrn.br/imprensa/noticias/31006/eaj-e-classificada-para-o-desafio-de-startups-da-embrapa	EAJ é classificada para o Desafio de Startups da Embrapa
+2019	https://www.ufrn.br/imprensa/noticias/30983/rede-e-tec-brasil-realiza-pesquisa-de-egressos-na-ufrn	Rede e-Tec Brasil realiza pesquisa de egressos na UFRN
+2019	https://www.ufrn.br/imprensa/noticias/30981/curso-tecnico-em-informatica-da-eaj-comemora-20-anos	Curso técnico em Informática da EAJ comemora 20 anos
+2019	https://www.ufrn.br/imprensa/noticias/30820/eaj-realiza-estudo-da-influencia-do-manejo-na-diversificacao-da-producao-de-produtos-apicolas	EAJ realiza estudo da influência do manejo na produção de produtos apícolas
+2019	https://www.ufrn.br/imprensa/noticias/30598/palestras-e-oficinas-encerram-atividades-do-mes-do-servidor-na-eaj	Palestras e oficinas encerram atividades do Mês do Servidor na EAJ
+2019	https://www.ufrn.br/imprensa/noticias/30550/eaj-inicia-implantacao-de-modelo-de-gestao-de-residuos-organicos	EAJ inicia implantação de modelo de gestão de resíduos orgânicos
+2019	https://www.ufrn.br/imprensa/noticias/30236/provocacoes-cinematograficas-exibe-filmes-seguidos-de-debates	Provocações Cinematográficas exibe filmes seguidos de debates
+2019	https://www.ufrn.br/imprensa/noticias/30190/eaj-promove-visita-tecnica-para-estudantes-da-rede-estadual	EAJ promove visita técnica para estudantes da Rede Estadual
+2019	https://www.ufrn.br/imprensa/noticias/30120/escola-agricola-participa-da-57a-edicao-da-festa-do-boi	Escola Agrícola participa da 57ª edição da Festa do Boi
+2019	https://www.ufrn.br/imprensa/noticias/30019/ufrn-e-governo-do-estado-assinam-acordo-em-beneficio-da-producao-leiteira	UFRN e Governo do Estado assinam acordo em benefício da produção leiteira
+2019	https://www.ufrn.br/imprensa/noticias/29842/escola-agricola-de-jundiai-realiza-o-i-egg-day	Escola Agrícola de Jundiaí realiza o I Egg Day
+2019	https://www.ufrn.br/imprensa/noticias/29794/eaj-promove-o-egg-day-nesta-sexta	EAJ promove o Egg Day nesta sexta
+2019	https://www.ufrn.br/imprensa/noticias/29699/eaj-oferece-especializacao-em-gestao-ambiental	EAJ oferece Especialização em Gestão Ambiental
+2019	https://www.ufrn.br/imprensa/noticias/29653/eaj-integra-rede-internacional-de-cooperacao-entre-universidades	EAJ integra rede internacional de cooperação entre universidades
+2019	https://www.ufrn.br/imprensa/noticias/29437/novos-diretores-da-escola-agricola-de-jundiai-tomam-posse	Novos diretores da Escola Agrícola de Jundiaí tomam posse
+2019	https://www.ufrn.br/imprensa/noticias/29325/escola-agricola-de-jundiai-realiza-feira-de-aquarismo	Escola Agrícola de Jundiaí promove Feira de Aquarismo
+2019	https://www.ufrn.br/imprensa/noticias/29165/projeto-de-pesquisa-da-eaj-envolve-literatura-debate-e-reflexao	Projeto de pesquisa da EAJ envolve literatura, debate e reflexão
+2019	https://www.ufrn.br/imprensa/noticias/29094/agencia-de-inovacao-realiza-visita-tecnica-em-incubadora-de-macaiba	Agência de Inovação realiza visita técnica em incubadora de Macaíba
+2019	https://www.ufrn.br/imprensa/noticias/28919/campanha-de-prevencao-ao-suicidio-e-destaque-na-eaj	Campanha de prevenção ao suicídio é destaque na EAJ
+2019	https://www.ufrn.br/imprensa/noticias/28510/inscricoes-prorrogadas-para-pos-graduacao-em-gestao-ambiental	Inscrições prorrogadas para pós-graduação em Gestão Ambiental
+2019	https://www.ufrn.br/imprensa/noticias/28475/planejamento-para-implantacao-do-parque-tecnologico-e-apresentado-em-macaiba	Planejamento para implantação do Parque Tecnológico é apresentado em Macaíba
+2019	https://www.ufrn.br/imprensa/noticias/28326/inscricoes-para-pos-graduacao-em-gestao-ambiental-terminam-sexta	Inscrições para pós-graduação em Gestão Ambiental terminam sexta
+2019	https://www.ufrn.br/imprensa/noticias/27631/oficina-de-producao-de-mudas-abre-vaga-para-servidores	Oficina de produção de mudas abre vaga para servidores
+2019	https://www.ufrn.br/imprensa/noticias/27331/alunos-da-eaj-se-classificam-para-olimpiada-brasileira-de-robotica	Alunos da EAJ se classificam para Olimpíada Brasileira de Robótica
+2019	https://www.ufrn.br/imprensa/noticias/27284/eaj-experimenta-novas-tecnicas-de-manejo-e-conservacao-do-solo	EAJ experimenta novas técnicas de manejo e conservação do solo
+2019	https://www.ufrn.br/imprensa/noticias/27254/alunos-da-ufrn-competem-em-maratona-tecnologica-do-setor-leiteiro-do-rn	Alunos da UFRN competem em maratona tecnológica do setor leiteiro do RN
+2019	https://www.ufrn.br/imprensa/noticias/26358/escola-agricola-propoe-parceria-com-municipios-da-serra-de-santana	Escola Agrícola propõe parceria com municípios da Serra de Santana
+2019	https://www.ufrn.br/imprensa/noticias/25943/eaj-recebe-inscricoes-ate-hoje-para-cursos-tecnicos	EAJ recebe inscrições até hoje para cursos técnicos
+2019	https://www.ufrn.br/imprensa/noticias/25893/eaj-encerra-dia-10-inscricoes-para-cursos-tecnicos	EAJ encerra dia 10 inscrições para cursos técnicos
+2019	https://www.ufrn.br/imprensa/noticias/25698/escola-agricola-comemora-10-anos-de-curso-da-area-agroindustrial	Escola Agrícola comemora 10 anos de curso da área Agroindustrial
+2019	https://www.ufrn.br/imprensa/noticias/25401/encontro-na-eaj-discute-interacao-humano-animal	Encontro na EAJ discute interação humano-animal
+2019	https://www.ufrn.br/imprensa/noticias/25239/eaj-comemora-10-anos-do-curso-de-agroindustria-com-simposio	EAJ comemora 10 anos do Curso de Agroindústria com Simpósio
+2019	https://www.ufrn.br/imprensa/noticias/24449/escola-agricola-de-jundiai-inicia-comemoracoes-dos-70-anos	Escola Agrícola de Jundiaí inicia comemorações dos 70 anos
+2019	https://www.ufrn.br/imprensa/noticias/22680/escola-agricola-divulga-resultado-de-selecao-para-cursos-tecnicos	Escola Agrícola divulga resultado de seleção para cursos técnicos
+2018	https://www.ufrn.br/imprensa/noticias/21788/prograd-inscreve-para-curso-tecnologico-da-eaj	Prograd inscreve para curso tecnológico da EAJ
+2018	https://www.ufrn.br/imprensa/noticias/21760/inscricoes-para-cursos-da-escola-agricola-encerram-dia-30	Inscrições para cursos da Escola Agrícola encerram dia 30
+2018	https://www.ufrn.br/imprensa/noticias/21580/pop-rn-seleciona-alunos-da-ufrn-ifrn-e-eaj-para-vagas-de-bolsistas	PoP-RN seleciona alunos da UFRN, IFRN e EAJ para vagas de bolsistas
+2018	https://www.ufrn.br/imprensa/noticias/21201/ufrn-assina-contrato-para-obra-da-residencia-da-eaj	UFRN assina contrato para obra da Residência da EAJ
+2018	https://www.ufrn.br/imprensa/noticias/21177/ufrn-assina-contrato-para-obra-da-residencia-universitaria-da-escola-agricola-de-jundiai	UFRN assina contrato para obra da Residência Universitária da Escola Agrícola de Jundiaí
+2018	https://www.ufrn.br/imprensa/noticias/20641/escola-agricola-de-jundiai-promove-iv-agrotec-amanha	Escola Agrícola de Jundiaí promove IV Agrotec amanhã
+2018	https://www.ufrn.br/imprensa/noticias/20532/escola-agricola-de-jundiai-promove-iv-agrotec	Escola Agrícola de Jundiaí promove IV Agrotec
+2018	https://www.ufrn.br/imprensa/noticias/20056/eaj-esta-com-inscricoes-abertas-para-cursos-tecnicos	EAJ está com inscrições abertas para cursos técnicos
+2018	https://www.ufrn.br/imprensa/noticias/19940/feira-internacional-de-aquarismo-comeca-nesta-quarta-feira	Feira Internacional de Aquarismo começa nesta quarta-feira
+2018	https://www.ufrn.br/imprensa/noticias/19746/pos-em-tecnologias-educacionais-apresenta-aula-inaugural	Pós em Tecnologias Educacionais apresenta aula inaugural
+2018	https://www.ufrn.br/imprensa/noticias/18819/eaj-realiza-oficinas-sobre-sexualidade-para-alunos-e-servidores	EAJ realiza oficinas sobre sexualidade para alunos e servidores
+2018	https://www.ufrn.br/imprensa/noticias/18379/eaj-recebe-comenda-por-prestados-a-caico-atraves-da-rede-e-tec	EAJ recebe comenda por serviços prestados a Caicó através da Rede e-Tec
+2018	https://www.ufrn.br/imprensa/noticias/18165/inscricoes-em-tecnologias-educacionais-da-eaj-terminam-nesta-quarta	Inscrições em Tecnologias Educacionais da EAJ terminam nesta quarta
+2018	https://www.ufrn.br/imprensa/noticias/17903/eaj-realiza-terceira-edicao-da-feira-de-ciencias	EAJ realiza terceira edição da Feira de Ciências
+2018	https://www.ufrn.br/imprensa/noticias/17883/eaj-oferta-especializacao-por-meio-da-rede-e-tec	Escola Agrícola oferta especialização por meio da Rede e-Tec
+2018	https://www.ufrn.br/imprensa/noticias/17861/especializacao-em-tecnologias-educacionais-oferta-80-vagas	Especialização em Tecnologias Educacionais oferta 80 vagas
+2018	https://www.ufrn.br/imprensa/noticias/17286/ufrn-discute-producao-cientifica-em-simposio-de-ciencias-florestais	UFRN discute produção científica em Simpósio de Ciências Florestais
+2018	https://www.ufrn.br/imprensa/noticias/16920/escola-agricola-de-jundiai-prorroga-inscricoes-para-cursos-tecnicos	Escola Agrícola de Jundiaí prorroga inscrições para cursos técnicos
+2018	https://www.ufrn.br/imprensa/noticias/16871/representante-do-ministerio-da-cultura-entrega-certificados-do-pronatec	Representante do Ministério da Cultura entrega certificados do Pronatec
+2018	https://www.ufrn.br/imprensa/noticias/16634/eaj-abre-inscricoes-para-cursos-tecnicos-subsequentes	EAJ abre Inscrições para cursos técnicos Subsequentes
+2018	https://www.ufrn.br/imprensa/noticias/16016/eaj-promove-workshop-sobre-agrocomputacao	EAJ promove workshop sobre agrocomputação
+2018	https://www.ufrn.br/imprensa/noticias/15835/ciencias-florestais-da-eaj-inscreve-para-curso-de-pos-graduacao-2	Ciências Florestais da EAJ inscreve para curso de Pós-Graduação
+2018	https://www.ufrn.br/imprensa/noticias/15605/escola-agricola-de-jundiai-inscreve-para-projeto-xerimbabo	Escola Agrícola de Jundiaí inscreve para Projeto Xerimbabo
+2018	https://www.ufrn.br/imprensa/noticias/15227/ciencias-florestais-da-eaj-inscreve-para-curso-de-pos-graduacao	Ciências Florestais da EAJ inscreve para curso de Pós-Graduação
+2018	https://www.ufrn.br/imprensa/noticias/15016/escola-agricola-de-jundiai-diploma-62-jovens-atraves-do-pronatec	Escola Agrícola de Jundiaí diploma 62 jovens através do Pronatec
+2018	https://www.ufrn.br/imprensa/noticias/14588/rede-e-tec-diploma-270-tecnicos-pela-escola-agricola-de-jundiai	Rede e-Tec diploma 270 técnicos pela Escola Agrícola de Jundiaí
+2018	https://www.ufrn.br/imprensa/noticias/14221/escola-agricola-diploma-155-tecnicos-de-cursos-integrados-e-subsequentes	Escola Agrícola diploma 155 técnicos de cursos integrados e subsequentes
+2018	https://www.ufrn.br/imprensa/noticias/14007/eaj-diploma-turma-de-analise-e-desenvolvimento-de-sistemas	EAJ diploma turma de Análise e Desenvolvimento de Sistemas
+2018	https://www.ufrn.br/imprensa/noticias/13898/eaj-certifica-jovens-em-processo-de-ressocializacao-atraves-do-pronatec	EAJ certifica jovens em processo de ressocialização através do Pronatec
+2018	https://www.ufrn.br/imprensa/noticias/13792/eaj-promove-evento-sobre-reconhecimento-feminino	EAJ promove evento sobre Reconhecimento Feminino
+2018	https://www.ufrn.br/imprensa/noticias/13427/eaj-recebe-inscricoes-para-professores-ate-sexta-feira	EAJ realiza inscrições para professores até sexta-feira
+2018	https://www.ufrn.br/imprensa/noticias/13309/matriculas-para-cursos-tecnicos-da-eaj-terminam-hoje	Matrículas para cursos técnicos da EAJ terminam hoje
+2018	https://www.ufrn.br/imprensa/noticias/13204/eaj-seleciona-professores-para-atuacao-em-cursos-tecnicos	EAJ seleciona professores para atuação em cursos técnicos
+2018	https://www.ufrn.br/imprensa/noticias/13081/eaj-oferta-cursos-do-pronatec-para-menores-infratores	EAJ oferta cursos do Pronatec para menores infratores
+2018	https://www.ufrn.br/imprensa/noticias/13057/eaj-divulga-resultado-de-selecao-para-cursos-tecnicos	EAJ divulga resultado de seleção para cursos técnicos
+2018	https://www.ufrn.br/imprensa/noticias/12979/adolescentes-em-ressocializacao-iniciam-cursos-do-pronatec	Adolescentes em ressocialização iniciam cursos do Pronatec
+2017	https://www.ufrn.br/imprensa/noticias/12670/comperve-divulga-resultado-parcial-para-cursos-tecnicos-da-eaj	Comperve divulga resultado parcial para cursos técnicos da EAJ
+2017	https://www.ufrn.br/imprensa/noticias/12297/eaj-inicia-atividades-dos-cursos-do-pronatec-em-15-municipios	EAJ inicia atividades dos cursos do Pronatec em 15 municípios
+2017	https://www.ufrn.br/imprensa/noticias/12008/eaj-inscreve-ate-quinta-feira-para-cursos-do-pronatec	EAJ inscreve até quinta-feira para cursos do Pronatec
+2017	https://www.ufrn.br/imprensa/noticias/11911/lancamento-de-livro-e-curso-na-eaj	Lançamento de livro e Curso na EAJ
+2017	https://www.ufrn.br/imprensa/noticias/11747/abertas-as-inscricoes-em-cursos-pronatec-ofertados-pela-eaj	Abertas as inscrições em cursos Pronatec ofertados pela EAJ
+2017	https://www.ufrn.br/imprensa/noticias/11721/eaj-divulga-resultado-parcial-de-selecao-de-profissionais	EAJ divulga resultado parcial de seleção de profissionais
+2017	https://www.ufrn.br/imprensa/noticias/11705/diretor-da-eaj-e-escolhido-para-receber-medalha-de-merito	Diretor da EAJ é escolhido para receber Medalha de Mérito
+2017	https://www.ufrn.br/imprensa/noticias/11678/eaj-certifica-950-alunos-da-rede-publica-pelo-pronatec-jovem	EAJ certifica 950 alunos da rede pública pelo Pronatec Jovem Aprendiz
+2017	https://www.ufrn.br/imprensa/noticias/11551/eaj-encerra-inscricoes-para-contratacoes-temporarias	EAJ encerra inscrições para contratações temporárias
+2017	https://www.ufrn.br/imprensa/noticias/11358/eaj-abre-inscricoes-em-cursos-para-jovens-e-adultos	EAJ abre inscrições em cursos para jovens e adultos
+2017	https://www.ufrn.br/imprensa/noticias/11342/comperve-divulga-local-de-provas-de-cursos-tecnicos-da-eaj	Comperve divulga local de provas de cursos técnicos da EAJ
+2017	https://www.ufrn.br/imprensa/noticias/11265/eaj-abre-inscricoes-para-contratacao-de-profissionais	EAJ abre inscrições para contratação de profissionais
+2017	https://www.ufrn.br/imprensa/noticias/11192/ufrn-assina-acordo-de-criacao-de-area-experimental-em-caico	UFRN assina acordo de criação de área experimental em Caicó
+2017	https://www.ufrn.br/imprensa/noticias/10780/escola-agricola-oferta-cursos-para-jovens-e-adultos-do-estado	Escola Agrícola oferta cursos para jovens e adultos do Estado
+2017	https://www.ufrn.br/imprensa/noticias/8981/eaj-seleciona-professores-mediadores-para-polos-do-interior	EAJ seleciona professores mediadores para polos do interior
+2017	https://www.ufrn.br/imprensa/noticias/8736/matriculas-em-cursos-tecnicos-da-eaj-seguem-ate-esta-sexta-feira	Matrículas em cursos técnicos da EAJ seguem até esta sexta-feira
+2017	https://www.ufrn.br/imprensa/noticias/8695/matriculas-em-cursos-tecnicos-ofertados-pela-eaj-seguem-ate-sexta-feira	Matrículas em cursos técnicos ofertados pela EAJ seguem até sexta-feira
+2017	https://www.ufrn.br/imprensa/noticias/8447/escola-agricola-recebe-inscricoes-para-cursos-tecnicos-ate-esta-quarta-feira	Escola Agrícola recebe inscrições para cursos técnicos até esta quarta-feira
+2017	https://www.ufrn.br/imprensa/noticias/8292/eaj-oferece-cursos-tecnicos-para-alunos-da-rede-publica	EAJ oferece cursos técnicos para alunos da rede pública
+2017	https://www.ufrn.br/imprensa/noticias/8174/escola-agricola-de-jundiai-oferece-inscricoes-em-cursos-tecnicos	Escola Agrícola de Jundiaí oferece inscrições em cursos técnicos
+2017	https://www.ufrn.br/imprensa/noticias/8000/inscricao-para-profissionais-da-eaj-encerram-nesta-terca-feira	Inscrição para profissionais da EAJ encerram nesta terça-feira
+2017	https://www.ufrn.br/imprensa/noticias/7942/escola-agricola-de-jundiai-abre-selecao-para-contratacao-de-profissionais	Escola Agrícola de Jundiaí abre seleção para contratação de profissionais
+2017	https://www.ufrn.br/imprensa/noticias/7881/escola-agricola-de-jundiai-inscreve-para-cursos-tecnicos	Escola Agrícola de Jundiaí inscreve para cursos técnicos
+2017	https://www.ufrn.br/imprensa/noticias/7855/professor-da-eaj-e-reconduzido-a-presidencia-do-fnetec	Professor da EAJ é reconduzido à presidência do FNeTec
+2017	https://www.ufrn.br/imprensa/noticias/7809/inscricoes-para-selecao-de-professores-da-eaj-foram-prorrogadas	Inscrições para seleção de professores da EAJ foram prorrogadas
+2017	https://www.ufrn.br/imprensa/noticias/7665/escola-agricola-de-jundiai-seleciona-professores-para-cursos-tecnicos-ead	Escola Agrícola de Jundiaí seleciona professores para cursos técnicos EaD
+2017	https://www.ufrn.br/imprensa/noticias/7569/eaj-promove-dia-de-campo-para-a-valorizacao-da-agricultura-familiar	EAJ promove dia de campo para a valorização da agricultura familiar
+2017	https://www.ufrn.br/imprensa/noticias/7550/eaj-promove-i-encontro-de-parcerias-em-aquicultura-ornamental	EAJ promove I Encontro de Parcerias em Aquicultura Ornamental
+2017	https://www.ufrn.br/imprensa/noticias/7210/escola-agricola-promove-simposio-internacional-ate-esta-sexta	Escola Agrícola promove simpósio internacional até esta sexta
+2017	https://www.ufrn.br/imprensa/noticias/7124/eaj-inscreve-para-os-cursos-de-agroindustria-agropecuaria-e-aquicultura	EAJ inscreve para os cursos de Agroindústria, Agropecuária e Aquicultura
+2017	https://www.ufrn.br/imprensa/noticias/6925/eaj-oferece-cursos-tecnicos-a-distancia-para-alunos-da-rede-estadual	EAJ oferece cursos técnicos a distância para alunos da rede estadual
+2017	https://www.ufrn.br/imprensa/noticias/6703/eaj-divulga-aprovados-em-processo-seletivo-para-cursos-tecnicos	EAJ divulga aprovados em processo seletivo para cursos técnicos
+2017	https://www.ufrn.br/imprensa/noticias/6587/escola-agricola-de-jundiai-recebe-5a-edicao-do-encaotro	Escola Agrícola de Jundiaí recebe 5ª edição do EnCãotro
+2017	https://www.ufrn.br/imprensa/noticias/3386/eaj-lanca-revista-e-tec-sobre-5-anos-do-projeto-na-instituicao	EAJ lança revista e-TEC sobre 5 anos do projeto na instituição
+2017	https://www.ufrn.br/imprensa/noticias/2959/professor-da-escola-agricola-de-jundiai-participa-de-reuniao-do-conif	Professor da Escola Agrícola de Jundiaí participa de reunião do Conif
+2017	https://www.ufrn.br/imprensa/noticias/2186/escola-agricola-de-jundiai-diploma-124-alunos-de-cursos-tecnicos	Escola Agrícola de Jundiaí diploma 124 alunos de cursos técnicos
+2017	https://www.ufrn.br/imprensa/noticias/2140/selecao-para-empresas-incubadoras-vai-ate-15-de-marco	Seleção para empresas incubadoras vai até 15 de março
+2017	https://www.ufrn.br/imprensa/noticias/1657/escola-agricola-de-jundiai-oferece-vagas-para-incubacao-de-empresas-2	Escola Agrícola abre vagas para incubação de empresas
+2017	https://www.ufrn.br/imprensa/noticias/1159/escola-agricola-de-jundiai-oferece-vagas-para-incubacao-de-empresas	Escola Agrícola de Jundiaí oferece vagas para incubação de empresas
