@@ -1,225 +1,180 @@
 """
-Módulo de Utilitários para Processamento de Linguagem Natural (NLP),
-Geração de Nuvem de Palavras (WordCloud) e Métricas Estatísticas.
-Projeto Data App - Web Scraping UFRN
+Utilitários de processamento de dados, métricas estatísticas e gráficos para o Data App UFRN/EAJ.
 """
 
-import re
-import string
-from collections import Counter
-import matplotlib.pyplot as plt
-from wordcloud import WordCloud
 import pandas as pd
-import nltk
+import plotly.express as px
+import plotly.graph_objects as go
+from typing import Dict, Any, Tuple, Optional
 
-import os
-import warnings
 
-# Suprimir avisos desnecessários do NLTK downloader
-warnings.filterwarnings("ignore", category=UserWarning, module="nltk")
-
-# Garantir download seguro de recursos do NLTK
-def setup_nltk():
-    """Baixa os recursos necessários do NLTK caso não estejam presentes."""
-    nltk_data_dir = os.path.expanduser("~/nltk_data")
-    if nltk_data_dir not in nltk.data.path:
-        nltk.data.path.append(nltk_data_dir)
+def calculate_kpis(df: pd.DataFrame) -> Dict[str, Any]:
+    """
+    Calcula os principais KPIs e métricas do conjunto de notícias.
+    """
+    if df.empty or "ano" not in df.columns:
+        return {
+            "total_noticias": 0,
+            "periodo": "N/D",
+            "ano_pico": "N/D",
+            "qtd_ano_pico": 0,
+            "media_anual": 0.0,
+            "total_anos": 0
+        }
         
-    resources = ['stopwords', 'punkt', 'punkt_tab']
-    for resource in resources:
-        try:
-            nltk.download(resource, download_dir=nltk_data_dir, quiet=True)
-        except Exception:
-            pass
-
-setup_nltk()
-
-try:
-    from nltk.corpus import stopwords
-    STOPWORDS_PT = set(stopwords.words('portuguese'))
-except Exception:
-    # Fallback caso haja indisponibilidade de rede
-    STOPWORDS_PT = {
-        'de', 'a', 'o', 'que', 'e', 'do', 'da', 'em', 'um', 'para', 'é', 'com', 'não', 'uma',
-        'os', 'no', 'se', 'na', 'por', 'mais', 'as', 'dos', 'como', 'mas', 'foi', 'ao', 'ele',
-        'das', 'tem', 'à', 'seu', 'sua', 'ou', 'ser', 'quando', 'muito', 'há', 'nos', 'já',
-        'está', 'eu', 'também', 'só', 'pelo', 'pela', 'até', 'isso', 'ela', 'entre', 'era',
-        'depois', 'sem', 'mesmo', 'aos', 'ter', 'seus', 'quem', 'nas', 'me', 'esse', 'eles',
-        'estão', 'você', 'tinha', 'foram', 'essa', 'num', 'nem', 'suas', 'meu', 'às', 'minha',
-        'têm', 'numa', 'pelos', 'elas', 'havia', 'seja', 'qual', 'será', 'nós', 'tenho', 'lhe',
-        'deles', 'essas', 'esses', 'pelas', 'este', 'fosse', 'dele', 'tu', 'te', 'vocês', 'vos',
-        'lhes', 'meus', 'minhas', 'teu', 'tua', 'teus', 'tuas', 'nosso', 'nossa', 'nossos',
-        'nossas', 'dela', 'delas', 'esta', 'estes', 'estas', 'aquele', 'aquela', 'aqueles',
-        'aquelas', 'isto', 'aquilo', 'estou', 'está', 'estamos', 'estão', 'estive', 'esteve',
-        'estivemos', 'estiveram', 'estava', 'estávamos', 'estavam', 'estivera', 'estivéramos',
-        'esteja', 'estejamos', 'estejam', 'estivesse', 'estivéssemos', 'estivessem', 'estiver',
-        'estivermos', 'estiverem', 'hei', 'há', 'havemos', 'hão', 'houve', 'houvemos', 'houveram',
-        'houvera', 'houvéramos', 'haja', 'hajamos', 'hajam', 'houvesse', 'houvéssemos', 'houvessem',
-        'houver', 'houvermos', 'houverem', 'houverei', 'houverá', 'houveremos', 'houverão',
-        'houveria', 'houveríamos', 'houveriam', 'sou', 'somos', 'são', 'era', 'éramos', 'eram',
-        'fui', 'foi', 'fomos', 'foram', 'fora', 'fôramos', 'seja', 'sejamos', 'sejam', 'fosse',
-        'fôssemos', 'fossem', 'for', 'formos', 'forem', 'serei', 'será', 'seremos', 'serão',
-        'seria', 'seríamos', 'seriam', 'tenho', 'tem', 'temos', 'tém', 'tinha', 'tínhamos',
-        'tinham', 'tive', 'teve', 'tivemos', 'tiveram', 'tivera', 'tivéramos', 'tenha', 'tenhamos',
-        'tenham', 'tivesse', 'tivéssemos', 'tivessem', 'tiver', 'tivermos', 'tiverem', 'terei',
-        'terá', 'teremos', 'terão', 'teria', 'teríamos', 'teriam', 'artigo', 'artigos', 'links',
-        'externos', 'referências', 'ver', 'também', 'página', 'wikipédia', 'conteúdo', 'sobre'
+    df_valid = df.dropna(subset=["ano"]).copy()
+    df_valid["ano"] = df_valid["ano"].astype(int)
+    
+    total = len(df_valid)
+    if total == 0:
+        return {
+            "total_noticias": 0,
+            "periodo": "N/D",
+            "ano_pico": "N/D",
+            "qtd_ano_pico": 0,
+            "media_anual": 0.0,
+            "total_anos": 0
+        }
+        
+    min_year = int(df_valid["ano"].min())
+    max_year = int(df_valid["ano"].max())
+    
+    counts_by_year = df_valid["ano"].value_counts().sort_index()
+    ano_pico = int(counts_by_year.idxmax())
+    qtd_ano_pico = int(counts_by_year.max())
+    total_anos = len(counts_by_year)
+    media_anual = round(total / total_anos, 1) if total_anos > 0 else 0.0
+    
+    return {
+        "total_noticias": total,
+        "periodo": f"{min_year} – {max_year}",
+        "min_year": min_year,
+        "max_year": max_year,
+        "ano_pico": ano_pico,
+        "qtd_ano_pico": qtd_ano_pico,
+        "media_anual": media_anual,
+        "total_anos": total_anos
     }
 
-# Adicionar termos extras comumente presentes em páginas wiki
-CUSTOM_WIKI_STOPWORDS = {
-    'artigo', 'artigos', 'links', 'externos', 'referências', 'ver', 'também', 
-    'página', 'wikipédia', 'conteúdo', 'sobre', 'editar', 'pelo', 'pela', 'segundo', 
-    'sendo', 'onde', 'além', 'ainda', 'assim', 'após', 'durante', 'sob', 'sobre'
-}
-STOPWORDS_PT.update(CUSTOM_WIKI_STOPWORDS)
 
-
-def clean_text_portuguese(raw_text: str, remove_stopwords: bool = True) -> tuple[str, list[str]]:
+def get_yearly_distribution(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Limpa o texto bruto da Wikipédia:
-    - Converte para minúsculas
-    - Remove referências numéricas como [1], [2], [nota 1]
-    - Remove pontuação e caracteres especiais
-    - Remove stopwords em português (opcional)
-    
-    Retorna:
-        tuple[str, list[str]]: (texto limpo concatenado, lista de tokens limpos)
+    Retorna a tabela agregada de contagem de notícias por ano, ordenada cronologicamente.
     """
-    if not raw_text or not isinstance(raw_text, str):
-        return "", []
-
-    # 1. Remover referências da Wikipédia como [1], [12], [carece de fontes], etc.
-    text = re.sub(r'\[.*?\]', ' ', raw_text)
-    
-    # 2. Converter para minúsculas
-    text = text.lower()
-    
-    # 3. Remover caracteres especiais e pontuação, mantendo letras acentuadas e espaços
-    # Expressão preserva letras do alfabeto latino estendido (incluindo acentos e ç)
-    text = re.sub(r'[^a-záàâãéèêíïóôõöúçñ\s]', ' ', text)
-    
-    # 4. Normalizar espaços múltiplos
-    text = re.sub(r'\s+', ' ', text).strip()
-    
-    # 5. Tokenizar palavras
-    tokens = text.split()
-    
-    # 6. Filtrar stopwords e palavras muito curtas (<= 2 caracteres)
-    if remove_stopwords:
-        cleaned_tokens = [
-            word for word in tokens 
-            if word not in STOPWORDS_PT and len(word) > 2
-        ]
-    else:
-        cleaned_tokens = [word for word in tokens if len(word) > 1]
+    if df.empty or "ano" not in df.columns:
+        return pd.DataFrame(columns=["Ano", "Quantidade"])
         
-    cleaned_string = " ".join(cleaned_tokens)
-    return cleaned_string, cleaned_tokens
-
-
-def generate_wordcloud_figure(
-    text: str,
-    title: str = "Nuvem de Palavras",
-    max_words: int = 150,
-    colormap: str = "viridis",
-    background_color: str = "#111827",
-    width: int = 1000,
-    height: int = 500
-) -> plt.Figure:
-    """
-    Gera uma figura matplotlib contendo a Nuvem de Palavras estilizada.
-    """
-    fig, ax = plt.subplots(figsize=(10, 5), facecolor=background_color)
+    df_valid = df.dropna(subset=["ano"]).copy()
+    df_valid["Ano"] = df_valid["ano"].astype(int)
     
-    if not text.strip():
-        ax.text(
-            0.5, 0.5, "Texto insuficiente para gerar Nuvem de Palavras",
-            horizontalalignment='center', verticalalignment='center',
-            color='#9CA3AF', fontsize=14, transform=ax.transAxes
-        )
-        ax.axis("off")
+    dist = df_valid["Ano"].value_counts().reset_index()
+    dist.columns = ["Ano", "Quantidade"]
+    dist = dist.sort_values(by="Ano", ascending=True).reset_index(drop=True)
+    dist["Ano_Str"] = dist["Ano"].astype(str)
+    return dist
+
+
+def create_plotly_bar_chart(dist_df: pd.DataFrame) -> go.Figure:
+    """
+    Gera um gráfico interativo de barras de alta qualidade com Plotly.
+    """
+    if dist_df.empty:
+        fig = go.Figure()
+        fig.update_layout(title="Nenhum dado disponível")
         return fig
         
-    wc = WordCloud(
-        width=width,
-        height=height,
-        background_color=background_color,
-        colormap=colormap,
-        max_words=max_words,
-        stopwords=STOPWORDS_PT,
-        collocations=False,
-        random_state=42,
-        contour_width=0,
-        prefer_horizontal=0.85
-    ).generate(text)
+    max_qtd = dist_df["Quantidade"].max()
     
-    ax.imshow(wc, interpolation="bilinear")
-    ax.axis("off")
-    if title:
-        ax.set_title(title, fontsize=16, color="#F3F4F6", pad=12, fontweight="bold")
-        
-    plt.tight_layout(pad=0)
+    # Cores personalizadas: destaque para o ano de maior publicação
+    colors = [
+        "#00d2ff" if q == max_qtd else "#3a7bd5" 
+        for q in dist_df["Quantidade"]
+    ]
+    
+    fig = go.Figure(
+        data=[
+            go.Bar(
+                x=dist_df["Ano_Str"],
+                y=dist_df["Quantidade"],
+                text=dist_df["Quantidade"],
+                textposition="outside",
+                textfont=dict(size=14, color="#ffffff", family="Inter, sans-serif"),
+                marker=dict(
+                    color=colors,
+                    line=dict(color="#ffffff", width=1.2),
+                    opacity=0.9
+                ),
+                hovertemplate="<b>Ano:</b> %{x}<br><b>Notícias publicadas:</b> %{y}<extra></extra>"
+            )
+        ]
+    )
+    
+    # Linha de tendência média
+    media = dist_df["Quantidade"].mean()
+    fig.add_hline(
+        y=media,
+        line_dash="dot",
+        line_color="#ff9900",
+        annotation_text=f"Média Anual: {media:.1f}",
+        annotation_position="top left",
+        annotation_font_color="#ff9900"
+    )
+    
+    fig.update_layout(
+        title=dict(
+            text="📊 Publicações de Notícias Citando a EAJ por Ano",
+            font=dict(size=20, color="#ffffff", family="Inter, sans-serif")
+        ),
+        xaxis=dict(
+            title=dict(text="Ano de Publicação", font=dict(size=14, color="#e0e0e0")),
+            type="category",
+            gridcolor="rgba(255, 255, 255, 0.1)",
+            tickfont=dict(size=12, color="#ffffff")
+        ),
+        yaxis=dict(
+            title=dict(text="Quantidade de Notícias", font=dict(size=14, color="#e0e0e0")),
+            gridcolor="rgba(255, 255, 255, 0.1)",
+            tickfont=dict(size=12, color="#ffffff")
+        ),
+        plot_bgcolor="rgba(15, 23, 42, 0.6)",
+        paper_bgcolor="rgba(15, 23, 42, 0.8)",
+        margin=dict(l=40, r=40, t=60, b=40),
+        height=450
+    )
+    
     return fig
 
 
-def count_word_occurrences(
-    cleaned_tokens: list[str],
-    raw_text: str,
-    target_word: str
-) -> dict:
+def create_plotly_pie_chart(dist_df: pd.DataFrame) -> go.Figure:
     """
-    Conta o número exato de ocorrências da palavra pesquisada no texto limpo
-    e extrai trechos de contexto (snippets) do texto original.
-    
-    Retorna:
-        dict: Estatísticas e trechos de contexto da ocorrência da palavra.
+    Gera um gráfico de pizza/donut para distribuição percentual por ano.
     """
-    if not target_word or not target_word.strip():
-        return {
-            "target_word": "",
-            "count": 0,
-            "total_words": len(cleaned_tokens),
-            "frequency_pct": 0.0,
-            "snippets": []
-        }
+    if dist_df.empty:
+        fig = go.Figure()
+        return fig
         
-    normalized_target = target_word.strip().lower()
+    fig = px.pie(
+        dist_df,
+        names="Ano_Str",
+        values="Quantidade",
+        title="🥧 Proporção de Notícias por Ano (EAJ)",
+        hole=0.4,
+        color_discrete_sequence=px.colors.sequential.Blues_r
+    )
     
-    # Contagem exata na lista de tokens limpos
-    count = cleaned_tokens.count(normalized_target)
-    total_words = len(cleaned_tokens)
-    freq_pct = (count / total_words * 100) if total_words > 0 else 0.0
+    fig.update_traces(
+        textposition="inside",
+        textinfo="percent+label",
+        hoverinfo="label+value+percent",
+        marker=dict(line=dict(color="#1e293b", width=1.5))
+    )
     
-    # Extrair snippets do texto original onde a palavra aparece (com regex boundary)
-    snippets = []
-    if raw_text:
-        pattern = rf'([^.!?\n]*?\b{re.escape(normalized_target)}\b[^.!?\n]*)'
-        matches = re.finditer(pattern, raw_text, flags=re.IGNORECASE)
-        for i, match in enumerate(matches):
-            snippet = match.group(1).strip()
-            if snippet and len(snippet) > 10:
-                snippets.append(snippet)
-            if len(snippets) >= 8:  # Limitar para não poluir a interface
-                break
-                
-    return {
-        "target_word": normalized_target,
-        "count": count,
-        "total_words": total_words,
-        "frequency_pct": round(freq_pct, 4),
-        "snippets": snippets
-    }
-
-
-def get_top_frequent_words(cleaned_tokens: list[str], top_n: int = 15) -> pd.DataFrame:
-    """
-    Retorna um DataFrame com as palavras mais frequentes do texto limpo.
-    """
-    if not cleaned_tokens:
-        return pd.DataFrame(columns=["Palavra", "Frequência"])
-        
-    counter = Counter(cleaned_tokens)
-    most_common = counter.most_common(top_n)
-    df = pd.DataFrame(most_common, columns=["Palavra", "Frequência"])
-    return df
+    fig.update_layout(
+        plot_bgcolor="rgba(15, 23, 42, 0.6)",
+        paper_bgcolor="rgba(15, 23, 42, 0.8)",
+        font=dict(color="#ffffff", family="Inter, sans-serif"),
+        height=400,
+        margin=dict(l=20, r=20, t=50, b=20)
+    )
+    
+    return fig
